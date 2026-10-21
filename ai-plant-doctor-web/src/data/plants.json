@@ -54,7 +54,7 @@
       "ICAR-IIHR Tomato Production Guide"
     ],
     "verification_status": "Verified against state agricultural university standards",
-    "image_url": "https://images.unsplash.com/photo-1592841200221-a6898f307baa?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/tomato.jpg"
   },
   "paddy": {
     "plant_id": "paddy",
@@ -109,7 +109,7 @@
       "ICAR-NRRI Cuttack Technical Bulletins"
     ],
     "verification_status": "Verified against ICAR-NRRI protocols",
-    "image_url": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/paddy.jpg"
   },
   "groundnut": {
     "plant_id": "groundnut",
@@ -164,7 +164,7 @@
       "TNAU Agritech Portal: Oilseeds"
     ],
     "verification_status": "Verified against ICAR-DGR guidelines",
-    "image_url": "https://images.unsplash.com/photo-1567894340315-735d7c361db0?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/groundnut.jpg"
   },
   "tulsi": {
     "plant_id": "tulsi",
@@ -220,7 +220,7 @@
       "Ayush Ayurvedic Pharmacopoeia of India"
     ],
     "verification_status": "Verified against NMPB monographs",
-    "image_url": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/tulsi.jpg"
   },
   "neem": {
     "plant_id": "neem",
@@ -274,7 +274,7 @@
       "TNAU Agroforestry Portal"
     ],
     "verification_status": "Verified against ICFRE forestry protocols",
-    "image_url": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/neem.jpg"
   },
   "mango": {
     "plant_id": "mango",
@@ -330,7 +330,7 @@
       "TNAU Agritech Portal: Mango Cultivation"
     ],
     "verification_status": "Verified against ICAR-CISH Lucknow standards",
-    "image_url": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/mango.jpg"
   },
   "hibiscus": {
     "plant_id": "hibiscus",
@@ -386,7 +386,7 @@
       "TNAU Floriculture Portal"
     ],
     "verification_status": "Verified against botanical references",
-    "image_url": "https://images.unsplash.com/photo-1550950158-d0d960dff51b?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/hibiscus.jpg"
   },
   "turmeric": {
     "plant_id": "turmeric",
@@ -441,7 +441,7 @@
       "TNAU Agritech Portal: Spices"
     ],
     "verification_status": "Verified against ICAR-IISR standards",
-    "image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/turmeric.jpg"
   },
   "potato": {
     "plant_id": "potato",
@@ -472,7 +472,7 @@
         "Avoid overhead sprinkler irrigation"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/potato.jpg"
   },
   "brinjal": {
     "plant_id": "brinjal",
@@ -565,7 +565,7 @@
         "Rogue out infected plants immediately"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/okra.jpg"
   },
   "cabbage": {
     "plant_id": "cabbage",
@@ -627,7 +627,7 @@
         "Ensure deep drainage ditches in monsoon"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/banana.jpg"
   },
   "papaya": {
     "plant_id": "papaya",
@@ -658,7 +658,7 @@
         "Remove and destroy virus-hit seedlings"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/papaya.jpg"
   },
   "guava": {
     "plant_id": "guava",
@@ -689,7 +689,7 @@
         "Avoid waterlogging around trunk collar"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1536511135898-fe291b5c00e6?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/guava.jpg"
   },
   "pomegranate": {
     "plant_id": "pomegranate",
@@ -720,7 +720,7 @@
         "Bordeaux paste application on pruned cuts"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1541344999736-83eca872f240?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/pomegranate.jpg"
   },
   "citrus": {
     "plant_id": "citrus",
@@ -781,7 +781,7 @@
         "Monitor fields early in cool winter mornings"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/wheat.jpg"
   },
   "maize": {
     "plant_id": "maize",
@@ -812,7 +812,7 @@
         "Balanced NPK nutrition with adequate potassium"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/maize.jpg"
   },
   "cotton": {
     "plant_id": "cotton",
@@ -935,7 +935,7 @@
         "Remove spent flowers promptly"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1596726904627-2c9744c6c06a?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/marigold.jpg"
   },
   "jasmine": {
     "plant_id": "jasmine",
@@ -965,6 +965,6 @@
         "Apply vermicompost and neem cake"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1592150621744-aca64f48394a?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/jasmine.jpg"
   }
 }

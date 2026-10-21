@@ -53,7 +53,8 @@
       "TNAU Agritech Portal: Horticulture Crops",
       "ICAR-IIHR Tomato Production Guide"
     ],
-    "verification_status": "Verified against state agricultural university standards"
+    "verification_status": "Verified against state agricultural university standards",
+    "image_url": "https://images.unsplash.com/photo-1592841200221-a6898f307baa?auto=format&fit=crop&w=600&q=80"
   },
   "paddy": {
     "plant_id": "paddy",
@@ -107,7 +108,8 @@
       "TNAU Paddy Crop Management Guide",
       "ICAR-NRRI Cuttack Technical Bulletins"
     ],
-    "verification_status": "Verified against ICAR-NRRI protocols"
+    "verification_status": "Verified against ICAR-NRRI protocols",
+    "image_url": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80"
   },
   "groundnut": {
     "plant_id": "groundnut",
@@ -161,7 +163,8 @@
       "ICAR-DGR Junagadh Agricultural Guidelines",
       "TNAU Agritech Portal: Oilseeds"
     ],
-    "verification_status": "Verified against ICAR-DGR guidelines"
+    "verification_status": "Verified against ICAR-DGR guidelines",
+    "image_url": "https://images.unsplash.com/photo-1567894340315-735d7c361db0?auto=format&fit=crop&w=600&q=80"
   },
   "tulsi": {
     "plant_id": "tulsi",
@@ -216,7 +219,8 @@
       "National Medicinal Plants Board (NMPB) Monographs",
       "Ayush Ayurvedic Pharmacopoeia of India"
     ],
-    "verification_status": "Verified against NMPB monographs"
+    "verification_status": "Verified against NMPB monographs",
+    "image_url": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=600&q=80"
   },
   "neem": {
     "plant_id": "neem",
@@ -269,7 +273,8 @@
       "Indian Council of Forestry Research and Education (ICFRE)",
       "TNAU Agroforestry Portal"
     ],
-    "verification_status": "Verified against ICFRE forestry protocols"
+    "verification_status": "Verified against ICFRE forestry protocols",
+    "image_url": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&w=600&q=80"
   },
   "mango": {
     "plant_id": "mango",
@@ -324,7 +329,8 @@
       "ICAR-CISH Lucknow Mango Guidelines",
       "TNAU Agritech Portal: Mango Cultivation"
     ],
-    "verification_status": "Verified against ICAR-CISH Lucknow standards"
+    "verification_status": "Verified against ICAR-CISH Lucknow standards",
+    "image_url": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=600&q=80"
   },
   "hibiscus": {
     "plant_id": "hibiscus",
@@ -379,7 +385,8 @@
       "Royal Horticultural Society Plant Guides",
       "TNAU Floriculture Portal"
     ],
-    "verification_status": "Verified against botanical references"
+    "verification_status": "Verified against botanical references",
+    "image_url": "https://images.unsplash.com/photo-1550950158-d0d960dff51b?auto=format&fit=crop&w=600&q=80"
   },
   "turmeric": {
     "plant_id": "turmeric",
@@ -433,6 +440,531 @@
       "ICAR-Indian Institute of Spices Research (IISR) Kozhikode",
       "TNAU Agritech Portal: Spices"
     ],
-    "verification_status": "Verified against ICAR-IISR standards"
+    "verification_status": "Verified against ICAR-IISR standards",
+    "image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=600&q=80"
+  },
+  "potato": {
+    "plant_id": "potato",
+    "name": {
+      "en": "Potato",
+      "ta": "உருளைக்கிழங்கு"
+    },
+    "scientific_name": "Solanum tuberosum",
+    "family": "Solanaceae",
+    "category": "Vegetables",
+    "support_status": "both_models",
+    "description": {
+      "en": "Major starchy root tuber vegetable widely grown in cool seasons and hilly tracts.",
+      "ta": "குளிர்ந்த பருவம் மற்றும் மலைப்பகுதிகளில் பயிரிடப்படும் முக்கியமான கிழங்கு வகை."
+    },
+    "disease": {
+      "name": "Late Blight",
+      "scientific": "Phytophthora infestans",
+      "confidence": 88,
+      "symptoms": [
+        "Water-soaked dark lesions on leaf tips",
+        "White downy fungal growth under leaves in high humidity",
+        "Tuber dry rot"
+      ],
+      "actions": [
+        "Spray Mancozeb or Ridomil MZ",
+        "Plant certified certified disease-free seed tubers",
+        "Avoid overhead sprinkler irrigation"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=600&q=80"
+  },
+  "brinjal": {
+    "plant_id": "brinjal",
+    "name": {
+      "en": "Brinjal (Eggplant)",
+      "ta": "கத்தரிக்காய்"
+    },
+    "scientific_name": "Solanum melongena",
+    "family": "Solanaceae",
+    "category": "Vegetables",
+    "support_status": "both_models",
+    "description": {
+      "en": "Important warm-season solanaceous vegetable producing purple or green glossy fruit.",
+      "ta": "முக்கியமான வெப்பமண்டல கத்தரி வகை பயிர்."
+    },
+    "disease": {
+      "name": "Phomopsis Blight",
+      "scientific": "Phomopsis vexans",
+      "confidence": 82,
+      "symptoms": [
+        "Circular brown leaf spots with pale centers",
+        "Girdling lesions on stems",
+        "Fruit soft rot with pycnidia rings"
+      ],
+      "actions": [
+        "Hot water seed treatment at 50°C for 30 min",
+        "Spray Carbendazim (0.1%) or Copper Oxychloride",
+        "Collect and burn fallen infected leaves"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1628773822503-930a7eaecf80?auto=format&fit=crop&w=600&q=80"
+  },
+  "chilli": {
+    "plant_id": "chilli",
+    "name": {
+      "en": "Chilli (Hot Pepper)",
+      "ta": "மிளகாய்"
+    },
+    "scientific_name": "Capsicum annuum",
+    "family": "Solanaceae",
+    "category": "Vegetables",
+    "support_status": "both_models",
+    "description": {
+      "en": "Pungent spice and vegetable crop cultivated extensively across India for dried and green chillies.",
+      "ta": "காரத்தன்மை கொண்ட அன்றாட சமையல் மற்றும் வணிகப் பயிர்."
+    },
+    "disease": {
+      "name": "Anthracnose & Dieback",
+      "scientific": "Colletotrichum capsici",
+      "confidence": 86,
+      "symptoms": [
+        "Necrotic sunken spots on ripe fruits with black dots",
+        "Dieback of twigs from tip downwards",
+        "Premature fruit dropping"
+      ],
+      "actions": [
+        "Seed treatment with Trichoderma viride (4g/kg)",
+        "Spray Azoxystrobin or Mancozeb",
+        "Avoid excessive sprinkler water during flowering"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1563865436874-9aef32095fad?auto=format&fit=crop&w=600&q=80"
+  },
+  "okra": {
+    "plant_id": "okra",
+    "name": {
+      "en": "Okra (Ladyfinger)",
+      "ta": "வெண்டைக்காய்"
+    },
+    "scientific_name": "Abelmoschus esculentus",
+    "family": "Malvaceae",
+    "category": "Vegetables",
+    "support_status": "both_models",
+    "description": {
+      "en": "Nutritious fibrous pod vegetable beloved for culinary uses in tropical climates.",
+      "ta": "அதிக நார்ச்சத்துள்ள பிரபலமான காய்கறி பயிர்."
+    },
+    "disease": {
+      "name": "Yellow Vein Mosaic Virus",
+      "scientific": "Begomovirus (YVMV)",
+      "confidence": 91,
+      "symptoms": [
+        "Prominent network of yellow veins on leaves",
+        "Stunted plant growth",
+        "Small pale green or chlorotic pods"
+      ],
+      "actions": [
+        "Control Whitefly vector with Yellow Sticky Traps & Neem oil (5ml/L)",
+        "Sow resistant hybrids like Parbhani Kranti",
+        "Rogue out infected plants immediately"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?auto=format&fit=crop&w=600&q=80"
+  },
+  "cabbage": {
+    "plant_id": "cabbage",
+    "name": {
+      "en": "Cabbage",
+      "ta": "முட்டைக்கோஸ்"
+    },
+    "scientific_name": "Brassica oleracea var. capitata",
+    "family": "Brassicaceae",
+    "category": "Vegetables",
+    "support_status": "both_models",
+    "description": {
+      "en": "Cool-season leafy head vegetable rich in vitamin C and antioxidants.",
+      "ta": "குளிர்கால சத்துமிக்க இலைக் காய்கறி பயிர்."
+    },
+    "disease": {
+      "name": "Black Rot",
+      "scientific": "Xanthomonas campestris",
+      "confidence": 85,
+      "symptoms": [
+        "V-shaped yellow lesions with black veins at leaf margins",
+        "Internal stem vascular browning",
+        "Soft wilting heads"
+      ],
+      "actions": [
+        "Soak seeds in hot water (50°C for 25 min)",
+        "Spray Streptocycline (100 ppm) with Copper Oxychloride",
+        "Practice 3-year brassica crop rotation"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80"
+  },
+  "banana": {
+    "plant_id": "banana",
+    "name": {
+      "en": "Banana",
+      "ta": "வாழை"
+    },
+    "scientific_name": "Musa acuminata",
+    "family": "Musaceae",
+    "category": "Fruits",
+    "support_status": "both_models",
+    "description": {
+      "en": "High-yield tropical perennial giant herb producing heavy bunches of delicious fruit.",
+      "ta": "தமிழகத்தில் பரவலாக விளையும் முக்கிய பழப்பயிர்."
+    },
+    "disease": {
+      "name": "Sigatoka Leaf Spot",
+      "scientific": "Mycosphaerella musicola",
+      "confidence": 89,
+      "symptoms": [
+        "Small chlorotic yellowish streaks running parallel to veins",
+        "Streaks expand into spindle-shaped brown spots with grey centers",
+        "Premature leaf drying"
+      ],
+      "actions": [
+        "Deleaf infected foliage and burn",
+        "Foliar spray with Propiconazole (0.1%) with mineral oil",
+        "Ensure deep drainage ditches in monsoon"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=600&q=80"
+  },
+  "papaya": {
+    "plant_id": "papaya",
+    "name": {
+      "en": "Papaya",
+      "ta": "பப்பாளி"
+    },
+    "scientific_name": "Carica papaya",
+    "family": "Caricaceae",
+    "category": "Fruits",
+    "support_status": "both_models",
+    "description": {
+      "en": "Rapid-growing tropical tree-like herb producing enzyme-rich papain and sweet fruits.",
+      "ta": "எளிதில் வளரக்கூடிய ஊட்டச்சத்து மிகுந்த பழப்பயிர்."
+    },
+    "disease": {
+      "name": "Papaya Ringspot Virus",
+      "scientific": "PRSV (Potyvirus)",
+      "confidence": 93,
+      "symptoms": [
+        "Dark green blisters and mosaic pattern on leaves",
+        "Shoe-string appearance of lamina",
+        "Concentric oily ring spots on green fruit"
+      ],
+      "actions": [
+        "Control Aphid vectors using reflective mulches",
+        "Grow barrier crops like maize around the perimeter",
+        "Remove and destroy virus-hit seedlings"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe?auto=format&fit=crop&w=600&q=80"
+  },
+  "guava": {
+    "plant_id": "guava",
+    "name": {
+      "en": "Guava",
+      "ta": "கொய்யா"
+    },
+    "scientific_name": "Psidium guajava",
+    "family": "Myrtaceae",
+    "category": "Fruits",
+    "support_status": "both_models",
+    "description": {
+      "en": "Hardy tropical fruit tree known as the poor man apple, packed with Vitamin C and dietary fiber.",
+      "ta": "வைட்டமின் சி நிறைந்த சத்துமிக்க பழ மரம்."
+    },
+    "disease": {
+      "name": "Guava Wilt",
+      "scientific": "Fusarium oxysporum f. sp. psidii",
+      "confidence": 84,
+      "symptoms": [
+        "Yellowing of foliage followed by drooping and wilting",
+        "Bark splitting and root vascular discoloration",
+        "Complete tree drying within months"
+      ],
+      "actions": [
+        "Drench soil root zone with Carbendazim (0.2%)",
+        "Apply Trichoderma bio-enriched compost to tree basin",
+        "Avoid waterlogging around trunk collar"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1536511135898-fe291b5c00e6?auto=format&fit=crop&w=600&q=80"
+  },
+  "pomegranate": {
+    "plant_id": "pomegranate",
+    "name": {
+      "en": "Pomegranate",
+      "ta": "மாதுளை"
+    },
+    "scientific_name": "Punica granatum",
+    "family": "Lythraceae",
+    "category": "Fruits",
+    "support_status": "both_models",
+    "description": {
+      "en": "Arid and semi-arid fruit shrub yielding jewel-like crimson arils with potent antioxidants.",
+      "ta": "வறண்ட நிலத்திலும் வளரும் ஊட்டச்சத்து மிகுந்த பழ மரம்."
+    },
+    "disease": {
+      "name": "Bacterial Blight",
+      "scientific": "Xanthomonas axonopodis pv. punicae",
+      "confidence": 87,
+      "symptoms": [
+        "Water-soaked dark brown triangular spots on leaves",
+        "Black oily cracks on stems",
+        "Brown-black nodal fruit lesions"
+      ],
+      "actions": [
+        "Strict sanitation: prune and destroy diseased twigs with sterilized secateurs",
+        "Spray Bacterimycin (0.5g/L) + Copper Oxychloride (2g/L)",
+        "Bordeaux paste application on pruned cuts"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1541344999736-83eca872f240?auto=format&fit=crop&w=600&q=80"
+  },
+  "citrus": {
+    "plant_id": "citrus",
+    "name": {
+      "en": "Citrus (Lemon / Acid Lime)",
+      "ta": "எலுமிச்சை"
+    },
+    "scientific_name": "Citrus aurantiifolia",
+    "family": "Rutaceae",
+    "category": "Fruits",
+    "support_status": "both_models",
+    "description": {
+      "en": "Thorny aromatic shrub producing zesty high-vitamin-C acid limes and lemons.",
+      "ta": "முட்கள் நிறைந்த அன்றாட சமையல் மற்றும் சாறுக்கான பழப்பயிர்."
+    },
+    "disease": {
+      "name": "Citrus Canker",
+      "scientific": "Xanthomonas citri",
+      "confidence": 90,
+      "symptoms": [
+        "Raised rough corky crater-like brownish lesions with yellow halo on leaves",
+        "Corky cankers on twigs causing dieback",
+        "Sunken craters on green fruits"
+      ],
+      "actions": [
+        "Prune and burn canker-affected twigs before monsoon",
+        "Spray Copper Hydroxide (2g/L) or Streptocycline (100 ppm)",
+        "Protect trees from Citrus Leaf Miner attacks"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&w=600&q=80"
+  },
+  "wheat": {
+    "plant_id": "wheat",
+    "name": {
+      "en": "Wheat",
+      "ta": "கோதுமை"
+    },
+    "scientific_name": "Triticum aestivum",
+    "family": "Poaceae",
+    "category": "Cereals",
+    "support_status": "both_models",
+    "description": {
+      "en": "Premier rabi staple cereal cultivated in North and Central India for chapatis and bread.",
+      "ta": "இந்தியாவின் முதன்மையான ராபி பருவ தானியப் பயிர்."
+    },
+    "disease": {
+      "name": "Yellow (Stripe) Rust",
+      "scientific": "Puccinia striiformis",
+      "confidence": 88,
+      "symptoms": [
+        "Yellowish-orange powdery pustules arranged in long linear stripes on leaves",
+        "Premature leaf drying and reduced grain filling"
+      ],
+      "actions": [
+        "Cultivate resistant varieties like HD-2967 or PBW-550",
+        "Foliar spray with Tebuconazole or Propiconazole (1ml/L)",
+        "Monitor fields early in cool winter mornings"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=600&q=80"
+  },
+  "maize": {
+    "plant_id": "maize",
+    "name": {
+      "en": "Maize (Corn)",
+      "ta": "மக்காச்சோளம்"
+    },
+    "scientific_name": "Zea mays",
+    "family": "Poaceae",
+    "category": "Cereals",
+    "support_status": "both_models",
+    "description": {
+      "en": "Versatile queen of cereals cultivated for grain, poultry feed, and sweet corn.",
+      "ta": "உணவு மற்றும் கால்நடை தீவனத்திற்கான தானியப் பயிர்."
+    },
+    "disease": {
+      "name": "Turcicum Leaf Blight",
+      "scientific": "Exserohilum turcicum",
+      "confidence": 83,
+      "symptoms": [
+        "Long elliptical spindle-shaped greyish-green lesions on leaves",
+        "Lesions coalesce causing full leaf blight",
+        "Straw-colored dried foliage"
+      ],
+      "actions": [
+        "Spray Mancozeb (2.5g/L) at 10-day intervals upon first sighting",
+        "Follow crop rotation with pulses",
+        "Balanced NPK nutrition with adequate potassium"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=600&q=80"
+  },
+  "cotton": {
+    "plant_id": "cotton",
+    "name": {
+      "en": "Cotton",
+      "ta": "பருத்தி"
+    },
+    "scientific_name": "Gossypium hirsutum",
+    "family": "Malvaceae",
+    "category": "Commercial Crops",
+    "support_status": "both_models",
+    "description": {
+      "en": "White gold fiber crop forming the backbone of the Indian textile industry.",
+      "ta": "ஜவுளித் துறைக்கான முதன்மையான பணப்பயிர்."
+    },
+    "disease": {
+      "name": "Bacterial Blight (Angular Leaf Spot)",
+      "scientific": "Xanthomonas citri pv. malvacearum",
+      "confidence": 86,
+      "symptoms": [
+        "Water-soaked angular leaf spots bounded by veinlets",
+        "Black arm lesion lesions on stems",
+        "Boll rotting"
+      ],
+      "actions": [
+        "Delint and acid-treat seeds before sowing",
+        "Spray Streptocycline (100mg/L) + Copper Oxychloride (2g/L)",
+        "Deep summer plowing to bury crop residues"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=600&q=80"
+  },
+  "sugarcane": {
+    "plant_id": "sugarcane",
+    "name": {
+      "en": "Sugarcane",
+      "ta": "கரும்பு"
+    },
+    "scientific_name": "Saccharum officinarum",
+    "family": "Poaceae",
+    "category": "Commercial Crops",
+    "support_status": "both_models",
+    "description": {
+      "en": "Perennial giant grass cultivated for crystal sugar, jaggery, ethanol, and bio-energy.",
+      "ta": "சர்க்கரை மற்றும் வெல்ல உற்பத்திக்கான முக்கிய பணப்பயிர்."
+    },
+    "disease": {
+      "name": "Red Rot",
+      "scientific": "Colletotrichum falcatum",
+      "confidence": 92,
+      "symptoms": [
+        "Third or fourth leaf drying from margin inwards",
+        "Pith of split cane shows red discoloration with white cross-bands",
+        "Alcoholic sour smell from split cane"
+      ],
+      "actions": [
+        "Select setts strictly from certified disease-free seed nursery",
+        "Hot water sett treatment at 52°C for 30 minutes",
+        "Burn trash of diseased crop; practice crop rotation"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=600&q=80"
+  },
+  "rose": {
+    "plant_id": "rose",
+    "name": {
+      "en": "Rose",
+      "ta": "ரோஜா"
+    },
+    "scientific_name": "Rosa hybrida",
+    "family": "Rosaceae",
+    "category": "Flowers",
+    "support_status": "both_models",
+    "description": {
+      "en": "The queen of flowers grown commercially for cut flowers, garlands, and rose oil.",
+      "ta": "மலர் அலங்காரம் மற்றும் மாலைகளுக்கான புகழ் பெற்ற பூ."
+    },
+    "disease": {
+      "name": "Black Spot",
+      "scientific": "Diplocarpon rosae",
+      "confidence": 89,
+      "symptoms": [
+        "Circular black spots with feathery fringed margins on upper leaf surfaces",
+        "Surrounding tissue turns yellow and drops prematurely",
+        "Weakened canes"
+      ],
+      "actions": [
+        "Prune off and safely destroy spotted leaves",
+        "Spray Chlorothalonil or Neem oil weekly during humid weather",
+        "Water soil at ground level, keep foliage dry"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80"
+  },
+  "marigold": {
+    "plant_id": "marigold",
+    "name": {
+      "en": "Marigold",
+      "ta": "செவ்வந்தி / சாமந்தி"
+    },
+    "scientific_name": "Tagetes erecta",
+    "family": "Asteraceae",
+    "category": "Flowers",
+    "support_status": "both_models",
+    "description": {
+      "en": "Hardy flower and trap crop known for brilliant golden yellow blossoms and nematode resistance.",
+      "ta": "பூஜை மற்றும் மாலைகளுக்கான எளிய மலர் பயிர்."
+    },
+    "disease": {
+      "name": "Alternaria Leaf Spot & Blight",
+      "scientific": "Alternaria tagetica",
+      "confidence": 81,
+      "symptoms": [
+        "Brownish necrotic spots on foliage and flower calyx",
+        "Burned scorched appearance of blossom buds"
+      ],
+      "actions": [
+        "Foliar spray with Mancozeb (2g/L)",
+        "Ensure proper bed spacing for sunshine",
+        "Remove spent flowers promptly"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1596726904627-2c9744c6c06a?auto=format&fit=crop&w=600&q=80"
+  },
+  "jasmine": {
+    "plant_id": "jasmine",
+    "name": {
+      "en": "Jasmine (Madurai Malli)",
+      "ta": "மல்லிகை"
+    },
+    "scientific_name": "Jasminum sambac",
+    "family": "Oleaceae",
+    "category": "Flowers",
+    "support_status": "both_models",
+    "description": {
+      "en": "World-famous fragrant flower of Tamil Nadu holding GI tag, prized for ceremonies and perfume.",
+      "ta": "மதுரை மல்லி - புவிசார் குறியீடு பெற்ற நறுமண மலர்."
+    },
+    "disease": {
+      "name": "Alternaria Leaf Blight",
+      "scientific": "Alternaria jasmini",
+      "confidence": 85,
+      "symptoms": [
+        "Circular reddish-brown spots with concentric rings on leaves and flower buds",
+        "Bud rotting before opening"
+      ],
+      "actions": [
+        "Spray Carbendazim (1g/L) or Copper Oxychloride (2.5g/L)",
+        "Prune bushes annually in Nov-Dec",
+        "Apply vermicompost and neem cake"
+      ]
+    },
+    "image_url": "https://images.unsplash.com/photo-1592150621744-aca64f48394a?auto=format&fit=crop&w=600&q=80"
   }
 }

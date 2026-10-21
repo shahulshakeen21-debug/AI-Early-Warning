@@ -33,12 +33,12 @@ export const PlantDatabaseScreen: React.FC = () => {
 
   const plantsList: PlantItem[] = Object.entries(plantsData).map(([id, p]: [string, any]) => ({
     id,
-    name_en: p.name?.en || id,
-    name_ta: p.name?.ta || id,
+    name_en: p.name?.en || p.common_name?.en || id,
+    name_ta: p.name?.ta || p.common_name?.ta || id,
     scientific_name: p.scientific_name || 'Plantae',
     category: p.category || 'Vegetables',
     support_status: p.support_status || 'both_models',
-    image_url: plantImages[id] || 'https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=400&q=80',
+    image_url: p.image_url || 'https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=400&q=80',
     description: p.description?.en || '',
   }));
 

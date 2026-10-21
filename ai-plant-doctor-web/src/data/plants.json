@@ -503,7 +503,7 @@
         "Collect and burn fallen infected leaves"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1628773822503-930a7eaecf80?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/brinjal.jpg"
   },
   "chilli": {
     "plant_id": "chilli",
@@ -534,7 +534,7 @@
         "Avoid excessive sprinkler water during flowering"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1563865436874-9aef32095fad?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/chilli.jpg"
   },
   "okra": {
     "plant_id": "okra",
@@ -596,7 +596,7 @@
         "Practice 3-year brassica crop rotation"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/cabbage.jpg"
   },
   "banana": {
     "plant_id": "banana",
@@ -751,7 +751,7 @@
         "Protect trees from Citrus Leaf Miner attacks"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/citrus.jpg"
   },
   "wheat": {
     "plant_id": "wheat",
@@ -843,7 +843,7 @@
         "Deep summer plowing to bury crop residues"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/cotton.jpg"
   },
   "sugarcane": {
     "plant_id": "sugarcane",
@@ -874,7 +874,7 @@
         "Burn trash of diseased crop; practice crop rotation"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/sugarcane.jpg"
   },
   "rose": {
     "plant_id": "rose",
@@ -905,7 +905,7 @@
         "Water soil at ground level, keep foliage dry"
       ]
     },
-    "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80"
+    "image_url": "/plants/rose.jpg"
   },
   "marigold": {
     "plant_id": "marigold",

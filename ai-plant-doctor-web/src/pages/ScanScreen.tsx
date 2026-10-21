@@ -60,14 +60,14 @@ export const ScanScreen: React.FC = () => {
       name: 'Brinjal',
       cropType: 'Phomopsis Blight',
       category: 'Vegetables',
-      imageUrl: 'https://images.unsplash.com/photo-1628773822503-930a7eaecf80?auto=format&fit=crop&w=400&q=80',
+      imageUrl: '/plants/brinjal.jpg',
     },
     {
       id: 'chilli',
       name: 'Chilli',
       cropType: 'Anthracnose Dieback',
       category: 'Vegetables',
-      imageUrl: 'https://images.unsplash.com/photo-1563865436874-9aef32095fad?auto=format&fit=crop&w=400&q=80',
+      imageUrl: '/plants/chilli.jpg',
     },
     {
       id: 'okra',
@@ -81,7 +81,7 @@ export const ScanScreen: React.FC = () => {
       name: 'Cabbage',
       cropType: 'Black Rot',
       category: 'Vegetables',
-      imageUrl: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=400&q=80',
+      imageUrl: '/plants/cabbage.jpg',
     },
     {
       id: 'banana',
@@ -109,7 +109,7 @@ export const ScanScreen: React.FC = () => {
       name: 'Citrus',
       cropType: 'Citrus Canker',
       category: 'Fruits',
-      imageUrl: 'https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&w=400&q=80',
+      imageUrl: '/plants/citrus.jpg',
     },
     {
       id: 'paddy',
@@ -137,21 +137,21 @@ export const ScanScreen: React.FC = () => {
       name: 'Cotton',
       cropType: 'Bacterial Blight',
       category: 'Commercial Crops',
-      imageUrl: 'https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=400&q=80',
+      imageUrl: '/plants/cotton.jpg',
     },
     {
       id: 'sugarcane',
       name: 'Sugarcane',
       cropType: 'Red Rot',
       category: 'Commercial Crops',
-      imageUrl: 'https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=400&q=80',
+      imageUrl: '/plants/sugarcane.jpg',
     },
     {
       id: 'rose',
       name: 'Rose',
       cropType: 'Black Spot',
       category: 'Flowers',
-      imageUrl: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=400&q=80',
+      imageUrl: '/plants/rose.jpg',
     },
   ];
 

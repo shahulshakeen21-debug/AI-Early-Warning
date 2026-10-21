@@ -1,0 +1,482 @@
+{
+  "app_title": {
+    "en": "AI Plant Doctor",
+    "ta": "AI தாவர மருத்துவர்"
+  },
+  "app_tagline": {
+    "en": "Smart Plant Identification, Disease Detection & Farming Early Warning System",
+    "ta": "தாவர அடையாளம், நோய் கண்டறிதல் மற்றும் விவசாய முன் எச்சரிக்கை அமைப்பு"
+  },
+  "nav_home": {
+    "en": "Home",
+    "ta": "முகப்பு"
+  },
+  "nav_identify_plant": {
+    "en": "Plant Identifier",
+    "ta": "தாவர அடையாளம்"
+  },
+  "nav_check_crop": {
+    "en": "Disease Detection",
+    "ta": "நோய் கண்டறிதல்"
+  },
+  "nav_weather_alerts": {
+    "en": "Weather Alerts",
+    "ta": "வானிலை எச்சரிக்கைகள்"
+  },
+  "nav_plant_care": {
+    "en": "Plant Care Assistant",
+    "ta": "தாவர பராமரிப்பு"
+  },
+  "nav_pests_symptoms": {
+    "en": "Pest & Symptoms",
+    "ta": "பூச்சிகள் & அறிகுறிகள்"
+  },
+  "nav_advice": {
+    "en": "Crop Advice",
+    "ta": "பயிர் ஆலோசனை"
+  },
+  "nav_schemes": {
+    "en": "Government Schemes",
+    "ta": "அரசு திட்டங்கள்"
+  },
+  "nav_history": {
+    "en": "Scan History",
+    "ta": "ஸ்கேன் வரலாறு"
+  },
+  "back_to_home": {
+    "en": "Back to Home",
+    "ta": "முகப்புக்கு திரும்புக"
+  },
+  "language_label": {
+    "en": "Language / மொழி",
+    "ta": "மொழி / Language"
+  },
+  "home_welcome_title": {
+    "en": "Welcome to AI Plant Doctor",
+    "ta": "AI தாவர மருத்துவருக்கு வரவேற்கிறோம்"
+  },
+  "home_welcome_desc": {
+    "en": "An integrated decision-support platform for plant identification, genuine disease classification, live weather risks, and agricultural extension advice.",
+    "ta": "தாவர அடையாளம், நோய் கண்டறிதல், நேரடி வானிலை இடர்கள் மற்றும் வேளாண் விரிவாக்க ஆலோசனைகளுக்கான ஒருங்கிணைந்த முடிவெடுக்கும் உதவி தளம்."
+  },
+  "home_identify_desc": {
+    "en": "Photograph or upload a leaf/plant image to identify common plant species.",
+    "ta": "தாவர வகையை அடையாளம் காண புகைப்படத்தை எடுக்கவும் அல்லது பதிவேற்றவும்."
+  },
+  "home_crop_desc": {
+    "en": "Screen affected leaves for crop diseases using genuine MobileNetV2 transfer learning.",
+    "ta": "பயிர் இலை நோய்களை மொபைல்நெட் மாதிரி மூலம் ஆய்வு செய்யவும்."
+  },
+  "home_weather_desc": {
+    "en": "5-day live Open-Meteo forecast and automated agricultural weather-risk alerts.",
+    "ta": "Open-Meteo வழங்கும் 5 நாள் நேரடி வானிலை முன்னறிவிப்பு மற்றும் இடர் எச்சரிக்கைகள்."
+  },
+  "home_care_desc": {
+    "en": "Personalized watering, sunlight, soil, and nutrient guidance for your plants.",
+    "ta": "உங்கள் தாவரங்களுக்கான நீர்ப்பாசனம், சூரிய ஒளி மற்றும் மண் பராமரிப்பு ஆலோசனைகள்."
+  },
+  "home_pests_desc": {
+    "en": "Explore visual symptoms like yellowing, holes, or wilting and their potential causes.",
+    "ta": "இலை மஞ்சள் நிறமாதல், துளைகள் மற்றும் வாடல் போன்ற அறிகுறிகளுக்கான காரணங்களை அறிக."
+  },
+  "home_advice_desc": {
+    "en": "Explore safe cultural, biological, and extension-verified treatment guidance.",
+    "ta": "பாதுகாப்பான உழவியல் மற்றும் வேளாண் அறிவியல் மைய வழிகாட்டுதல்களை அறிக."
+  },
+  "home_schemes_desc": {
+    "en": "Verified central and state government agricultural subsidy and insurance schemes.",
+    "ta": "மத்திய மற்றும் தமிழ்நாடு அரசு விவசாய நலத்திட்டங்கள் மற்றும் நேரடி இணைப்புகள்."
+  },
+  "home_history_desc": {
+    "en": "Review, export, and manage your private on-device crop scan records.",
+    "ta": "உங்கள் முந்தைய ஸ்கேன் பதிவுகளைப் பார்க்கவும், அறிக்கையாகப் பதிவிறக்கவும்."
+  },
+  "btn_card_identify": {
+    "en": "Identify Plant",
+    "ta": "தாவரம் கண்டறி"
+  },
+  "btn_card_crop": {
+    "en": "Check Crop Health",
+    "ta": "பயிர் நலம் சோதி"
+  },
+  "btn_card_weather": {
+    "en": "View Weather",
+    "ta": "வானிலை பார்க்க"
+  },
+  "btn_card_care": {
+    "en": "Plant Care Guide",
+    "ta": "பராமரிப்பு வழிகாட்டி"
+  },
+  "btn_card_pests": {
+    "en": "Explore Symptoms",
+    "ta": "அறிகுறிகள் பார்க்க"
+  },
+  "btn_card_advice": {
+    "en": "Get Crop Advice",
+    "ta": "ஆலோசனை பெற"
+  },
+  "btn_card_schemes": {
+    "en": "View Schemes",
+    "ta": "திட்டங்கள் பார்க்க"
+  },
+  "btn_card_history": {
+    "en": "View History",
+    "ta": "வரலாறு பார்க்க"
+  },
+  "home_crop_safety_title": {
+    "en": "Good Agricultural Practices & Crop Safety",
+    "ta": "நல்ல விவசாய நடைமுறைகள் & பயிர்ப் பாதுகாப்பு"
+  },
+  "home_crop_safety_text": {
+    "en": "Integrated Pest Management (IPM) prioritizes cultural and biological controls before chemical intervention. Never apply unlabelled chemical cocktails or spray during windy and rainy weather. Protect honeybees and beneficial pollinators by avoiding spraying during active flowering.",
+    "ta": "ஒருங்கிணைந்த பூச்சி மேலாண்மை (IPM) ரசாயன பயன்பாட்டிற்கு முன் உயிரியல் மற்றும் இயற்கை தடுப்பு முறைகளுக்கு முன்னுரிமை அளிக்கிறது. அங்கீகரிக்கப்படாத ரசாயனங்களை கலக்க வேண்டாம். பூக்கும் தருணத்தில் தேனீக்களைப் பாதுகாக்க மருந்து தெளிப்பதைத் தவிர்க்கவும்."
+  },
+  "select_crop_label": {
+    "en": "Select Crop",
+    "ta": "பயிரைத் தேர்ந்தெடுக்கவும்"
+  },
+  "crop_tomato": {
+    "en": "Tomato",
+    "ta": "தக்காளி"
+  },
+  "crop_paddy": {
+    "en": "Paddy (Rice)",
+    "ta": "நெல்"
+  },
+  "crop_groundnut": {
+    "en": "Groundnut",
+    "ta": "நிலக்கடலை"
+  },
+  "choose_image_source": {
+    "en": "Choose Image Input Method",
+    "ta": "பட உள்ளீட்டு முறையைத் தேர்ந்தெடுக்கவும்"
+  },
+  "upload_file_option": {
+    "en": "Upload from File",
+    "ta": "கோப்பிலிருந்து பதிவேற்றவும்"
+  },
+  "camera_capture_option": {
+    "en": "Capture using Camera",
+    "ta": "கேமரா மூலம் படம் எடுக்கவும்"
+  },
+  "upload_prompt": {
+    "en": "Upload plant photograph (JPG, JPEG, PNG - Max 10MB)",
+    "ta": "தாவர புகைப்படத்தைப் பதிவேற்றவும் (JPG, JPEG, PNG - அதிகபட்சம் 10MB)"
+  },
+  "camera_prompt": {
+    "en": "Capture a clear photograph of the leaf or plant",
+    "ta": "இலை அல்லது தாவரத்தின் தெளிவான புகைப்படத்தை எடுக்கவும்"
+  },
+  "preview_title": {
+    "en": "Selected Image Preview",
+    "ta": "தேர்ந்தெடுக்கப்பட்ட படத்தின் முன்னோட்டம்"
+  },
+  "btn_analyze_crop": {
+    "en": "Analyze Leaf Disease",
+    "ta": "இலை நோயை ஆய்வு செய்"
+  },
+  "btn_analyze_identify": {
+    "en": "Identify Plant Species",
+    "ta": "தாவர வகையை கண்டறி"
+  },
+  "analyzing_spinner": {
+    "en": "Analyzing image with deep learning model...",
+    "ta": "படிமம் மாதிரி மூலம் ஆய்வு செய்யப்படுகிறது..."
+  },
+  "low_confidence_message": {
+    "en": "Not sure, please consult your agriculture officer or KVK",
+    "ta": "உறுதியாகக் கூற இயலவில்லை, தயவுசெய்து உங்கள் வேளாண்மை அலுவலர் அல்லது வேளாண் அறிவியல் மையத்தை (KVK) அணுகவும்"
+  },
+  "field_photo_limitation": {
+    "en": "Predictions may be less accurate on real field photos. This is decision support, not a replacement for experts.",
+    "ta": "நேரடி வயல்வெளி புகைப்படங்களில் துல்லியம் குறைய வாய்ப்புள்ளது. இது ஒரு முடிவெடுக்கும் உதவி மட்டுமே, வேளாண் வல்லுநர்களின் மாற்றல்ல."
+  },
+  "model_missing_title": {
+    "en": "Trained Model Not Found",
+    "ta": "பயிற்றுவிக்கப்பட்ட மாதிரி (Model) கிடைக்கவில்லை"
+  },
+  "model_missing_explanation": {
+    "en": "The machine learning model (model.h5) or class names (class_names.json) are not yet trained on this system. To train the model with genuine PlantVillage data, execute 'python train_model.py' in the project directory.",
+    "ta": "இயந்திர கற்றல் மாதிரி (model.h5) அல்லது வகுப்பு பெயர்கள் (class_names.json) இன்னும் இந்த கணினியில் பயிற்றுவிக்கப்படவில்லை. உண்மையான PlantVillage தரவுகளுடன் பயிற்றுவிக்க, 'python train_model.py' கட்டளையை இயக்கவும்."
+  },
+  "crop_unsupported_title": {
+    "en": "Crop Not Supported in Current Trained Model",
+    "ta": "தற்போதைய பயிற்சி மாதிரியில் இந்த பயிர் ஆதரிக்கப்படவில்லை"
+  },
+  "crop_unsupported_message": {
+    "en": "Disease detection for this crop is unavailable until the relevant dataset is added and the model is retrained. Currently, only crops with validated training data (such as Tomato) can be analyzed.",
+    "ta": "தகுந்த தரவுத்தொகுப்பு சேர்க்கப்பட்டு மாதிரி மீண்டும் பயிற்றுவிக்கப்படும் வரை இந்த பயிருக்கான நோய் கண்டறிதல் கிடைக்காது. தற்போது சரிபார்க்கப்பட்ட தரவு கொண்ட பயிர்கள் மட்டுமே பரிசோதிக்கப்படலாம்."
+  },
+  "diagnosis_result_title": {
+    "en": "Diagnosis Result",
+    "ta": "கண்டறிதல் முடிவு"
+  },
+  "predicted_disease_label": {
+    "en": "Identified Condition",
+    "ta": "கண்டறியப்பட்ட நிலை"
+  },
+  "confidence_label": {
+    "en": "Confidence Level",
+    "ta": "நம்பகத்தன்மை அளவு"
+  },
+  "selected_crop_label": {
+    "en": "Selected Crop",
+    "ta": "தேர்ந்தெடுக்கப்பட்ட பயிர்"
+  },
+  "recommended_next_step_label": {
+    "en": "Recommended Next Step",
+    "ta": "பரிந்துரைக்கப்படும் அடுத்த படி"
+  },
+  "confidence_disclaimer": {
+    "en": "Model confidence is an algorithmic metric, not a scientific or medical guarantee. Always verify with field experts.",
+    "ta": "மாதிரியின் கணிப்பு என்பது கணித அடிப்படையிலானது, மருத்துவ அல்லது அறிவியல் உத்தரவாதம் அல்ல. கள வல்லுநர்களுடன் சரிபார்க்கவும்."
+  },
+  "view_full_advice_btn": {
+    "en": "View Complete Treatment & Safety Advice",
+    "ta": "முழு சிகிச்சை மற்றும் பாதுகாப்பு ஆலோசனையை பார்க்கவும்"
+  },
+  "btn_save_scan": {
+    "en": "Save to Scan History",
+    "ta": "வரலாற்றில் சேமிக்கவும்"
+  },
+  "scan_saved_success": {
+    "en": "Scan report saved securely to local on-device history.",
+    "ta": "ஸ்கேன் அறிக்கை கணினியின் உள்ளூர் வரலாற்றில் வெற்றிகரமாக சேமிக்கப்பட்டது."
+  },
+  "weather_location_header": {
+    "en": "Location Settings",
+    "ta": "இருப்பிட அமைப்புகள்"
+  },
+  "weather_location_mode": {
+    "en": "Location Input Method",
+    "ta": "இருப்பிட உள்ளீட்டு முறை"
+  },
+  "location_by_place": {
+    "en": "Search by Place Name (e.g., Coimbatore)",
+    "ta": "ஊர் பெயர் மூலம் தேடவும் (எ.கா: கோயம்புத்தூர்)"
+  },
+  "location_by_coords": {
+    "en": "Enter Latitude & Longitude",
+    "ta": "அட்சரேகை & தீர்க்கரேகை உள்ளிடவும்"
+  },
+  "place_input_label": {
+    "en": "Enter Place Name (Town / City / District)",
+    "ta": "ஊர் / நகரம் / மாவட்டத்தின் பெயரை உள்ளிடவும்"
+  },
+  "place_input_placeholder": {
+    "en": "e.g., Coimbatore, Tamil Nadu",
+    "ta": "எ.கா: கோயம்புத்தூர், தமிழ்நாடு"
+  },
+  "btn_fetch_weather": {
+    "en": "Get Live Weather Forecast",
+    "ta": "நேரடி வானிலை முன்னறிவிப்பைப் பெறவும்"
+  },
+  "btn_refresh_weather": {
+    "en": "Refresh Weather",
+    "ta": "வானிலையைப் புதுப்பி"
+  },
+  "weather_fetching_spinner": {
+    "en": "Connecting to Open-Meteo API...",
+    "ta": "Open-Meteo வானிலை சேவையுடன் இணைகிறது..."
+  },
+  "weather_metadata_header": {
+    "en": "Forecast Overview",
+    "ta": "முன்னறிவிப்பு விவரம்"
+  },
+  "weather_source_label": {
+    "en": "Data Source",
+    "ta": "தரவு மூலம்"
+  },
+  "weather_location_label": {
+    "en": "Selected Location",
+    "ta": "தேர்ந்தெடுக்கப்பட்ட இடம்"
+  },
+  "weather_coords_label": {
+    "en": "Coordinates",
+    "ta": "ஆயத்தொலைவுகள் (Coords)"
+  },
+  "weather_timezone_label": {
+    "en": "Time Zone",
+    "ta": "நேர மண்டலம்"
+  },
+  "weather_retrieval_time_label": {
+    "en": "Retrieved At",
+    "ta": "பெறப்பட்ட நேரம்"
+  },
+  "weather_period_label": {
+    "en": "Forecast Period",
+    "ta": "முன்னறிவிப்பு காலம்"
+  },
+  "forecast_notice": {
+    "en": "This information presents genuine model forecasts from Open-Meteo, not historical or station-measured observations.",
+    "ta": "இந்த தகவல் Open-Meteo வழங்கும் உண்மையான வானிலை முன்னறிவிப்பு ஆகும், கடந்தகால அளவீடு அல்ல."
+  },
+  "weather_alerts_header": {
+    "en": "Agricultural Risk Alerts",
+    "ta": "விவசாய இடர் எச்சரிக்கைகள்"
+  },
+  "no_alerts_message": {
+    "en": "No critical weather risks identified for the current forecast period under standard advisory rules.",
+    "ta": "நிலையான வழிகாட்டுதல் விதிகளின்படி தற்போதைய முன்னறிவிப்பு காலத்தில் பெரிய வானிலை இடர்கள் இல்லை."
+  },
+  "alert_fungal_risk_title": {
+    "en": "Fungal Disease Warning (High Humidity & Rainfall)",
+    "ta": "பூஞ்சை நோய் எச்சரிக்கை (அதிக ஈரப்பதம் மற்றும் மழை)"
+  },
+  "alert_spray_safety_title": {
+    "en": "Pesticide Spray Advisory (Rain Expected)",
+    "ta": "பூச்சிக்கொல்லி தெளிப்பு ஆலோசனை (மழை வாய்ப்பு)"
+  },
+  "alert_heat_stress_title": {
+    "en": "Crop Heat Stress Alert (High Temperature)",
+    "ta": "பயிர் வெப்ப அழுத்த எச்சரிக்கை (அதிக வெப்பநிலை)"
+  },
+  "threshold_disclaimer": {
+    "en": "Weather alerts are advisory rules based on forecast data, not guaranteed disease predictions.",
+    "ta": "வானிலை எச்சரிக்கைகள் முன்னறிவிப்பு தரவுகளின் அடிப்படையிலான ஆலோசனைகளே தவிர, உத்தரவாதமான நோய் கணிப்புகள் அல்ல."
+  },
+  "five_day_forecast_title": {
+    "en": "5-Day Forecast Details",
+    "ta": "5 நாள் வானிலை முன்னறிவிப்பு விவரங்கள்"
+  },
+  "col_date": {
+    "en": "Date",
+    "ta": "தேதி"
+  },
+  "col_max_temp": {
+    "en": "Max Temp (°C)",
+    "ta": "அதிகபட்ச வெப்பநிலை (°C)"
+  },
+  "col_rain_sum": {
+    "en": "Total Rain (mm)",
+    "ta": "மொத்த மழை (மி.மீ)"
+  },
+  "col_rain_prob": {
+    "en": "Rain Probability (%)",
+    "ta": "மழை வாய்ப்பு (%)"
+  },
+  "weather_error_header": {
+    "en": "Unable to Retrieve Weather",
+    "ta": "வானிலை தகவலைப் பெற முடியவில்லை"
+  },
+  "weather_retry_btn": {
+    "en": "Retry Forecast Retrieval",
+    "ta": "மீண்டும் முயற்சி செய்"
+  },
+  "weather_empty_state": {
+    "en": "Please enter a location or coordinates above and click 'Get Live Weather Forecast' to inspect forecast and agricultural risks.",
+    "ta": "வானிலை முன்னறிவிப்பு மற்றும் விவசாய இடர்களைக் காண இருப்பிடத்தை உள்ளிட்டு 'நேரடி வானிலை முன்னறிவிப்பைப் பெறவும்' என்பதை அழுத்தவும்."
+  },
+  "invalid_coords_error": {
+    "en": "Invalid coordinates. Latitude must be between -90 and 90, and Longitude between -180 and 180.",
+    "ta": "தவறான ஆயத்தொலைவுகள். அட்சரேகை -90 முதல் 90 வரையிலும், தீர்க்கரேகை -180 முதல் 180 வரையிலும் இருக்க வேண்டும்."
+  },
+  "place_not_found_error": {
+    "en": "Could not find the entered location. Please check the spelling or enter coordinates directly.",
+    "ta": "உள்ளிட்ட இடத்தை கண்டறிய முடியவில்லை. எழுத்துப் பிழையைச் சரிபார்க்கவும் அல்லது அட்சரேகை/தீர்க்கரேகையை உள்ளிடவும்."
+  },
+  "advice_screen_title": {
+    "en": "Crop Disease Knowledge & Safety Guide",
+    "ta": "பயிர் நோய் தகவல் & பாதுகாப்பு வழிகாட்டி"
+  },
+  "advice_select_crop_label": {
+    "en": "Filter by Crop",
+    "ta": "பயிர் வாரியாக வடிகட்டவும்"
+  },
+  "advice_select_disease_label": {
+    "en": "Select Disease / Condition",
+    "ta": "நோய் / நிலையைத் தேர்ந்தெடுக்கவும்"
+  },
+  "symptoms_header": {
+    "en": "Common Symptoms",
+    "ta": "பொதுவான அறிகுறிகள்"
+  },
+  "prevention_header": {
+    "en": "Prevention Methods",
+    "ta": "தடுப்பு முறைகள்"
+  },
+  "cultural_mgmt_header": {
+    "en": "Cultural Management",
+    "ta": "பயிர்ப் பாதுகாப்பு & கள மேலாண்மை"
+  },
+  "monitoring_header": {
+    "en": "Field Monitoring Advice",
+    "ta": "களக் கண்காணிப்பு வழிகாட்டுதல்"
+  },
+  "safe_treatment_header": {
+    "en": "Safe Treatment & Expert Guidance",
+    "ta": "பாதுகாப்பான சிகிச்சை & நிபுணர் வழிகாட்டுதல்"
+  },
+  "consultation_header": {
+    "en": "When to Consult an Agricultural Officer",
+    "ta": "வேளாண்மை அதிகாரியை எப்போது அணுக வேண்டும்"
+  },
+  "references_header": {
+    "en": "Authoritative References",
+    "ta": "அங்கீகரிக்கப்பட்ட குறிப்புகள்"
+  },
+  "expert_review_notice": {
+    "en": "Content & translation review status: Content compiled from agricultural extension guidelines. Final dosage and chemical suitability require local verification with your Block Agricultural Officer or KVK.",
+    "ta": "உள்ளடக்க நிலை: வேளாண் விரிவாக்க வழிகாட்டிகளிலிருந்து தொகுக்கப்பட்டது. பூச்சிக்கொல்லி அளவுகள் உள்ளூர் வட்டார வேளாண் அலுவலர் அல்லது KVK மூலம் உறுதி செய்யப்பட வேண்டும்."
+  },
+  "schemes_screen_title": {
+    "en": "Government Agricultural Schemes",
+    "ta": "அரசு விவசாய நலத்திட்டங்கள்"
+  },
+  "schemes_official_notice": {
+    "en": "Verify details on the official website. Government rules, eligibility criteria, and financial allocations are subject to change.",
+    "ta": "அதிகாரப்பூர்வ இணையதளத்தில் விவரங்களைச் சரிபார்க்கவும். அரசு விதிகள், தகுதிகள் மற்றும் மானியங்கள் மாற்றத்திற்கு உட்பட்டவை."
+  },
+  "scheme_benefits_label": {
+    "en": "Key Benefits",
+    "ta": "முக்கிய நன்மைகள்"
+  },
+  "scheme_eligibility_label": {
+    "en": "Eligibility Criteria",
+    "ta": "தகுதி வரம்புகள்"
+  },
+  "scheme_documents_label": {
+    "en": "Required Documents (Verified)",
+    "ta": "தேவையான ஆவணங்கள் (சரிபார்க்கப்பட்டது)"
+  },
+  "scheme_procedure_label": {
+    "en": "Application Procedure",
+    "ta": "விண்ணப்பிக்கும் முறை"
+  },
+  "scheme_official_portal_btn": {
+    "en": "Visit Official Website",
+    "ta": "அதிகாரப்பூர்வ தளத்தைப் பார்வையிடுக"
+  },
+  "scheme_verification_status_label": {
+    "en": "Verification Status",
+    "ta": "சரிபார்ப்பு நிலை"
+  },
+  "scheme_last_verified_label": {
+    "en": "Last Verified Date",
+    "ta": "கடைசியாக சரிபார்க்கப்பட்ட தேதி"
+  },
+  "err_corrupted_image": {
+    "en": "Uploaded file is corrupted or not a valid readable image.",
+    "ta": "பதிவேற்றப்பட்ட கோப்பு சேதமடைந்துள்ளது அல்லது சரியான படம் அல்ல."
+  },
+  "err_empty_upload": {
+    "en": "Empty file received. Please upload a valid leaf photograph.",
+    "ta": "வெற்று கோப்பு பெறப்பட்டது. சரியான இலை புகைப்படத்தைப் பதிவேற்றவும்."
+  },
+  "err_unsupported_format": {
+    "en": "Unsupported file format. Please upload JPG, JPEG, or PNG images.",
+    "ta": "ஆதரிக்கப்படாத கோப்பு வடிவம். JPG, JPEG அல்லது PNG படங்களைப் பதிவேற்றவும்."
+  },
+  "err_image_too_large": {
+    "en": "Image file is too large (maximum size is 10 MB).",
+    "ta": "படத்தின் அளவு மிக அதிகமாக உள்ளது (அதிகபட்ச அளவு 10 MB)."
+  },
+  "err_invalid_dimensions": {
+    "en": "Image dimensions are too small to detect crop diseases (minimum 64x64 pixels).",
+    "ta": "படத்தின் பரிமாணங்கள் மிகச் சிறியதாக உள்ளன (குறைந்தபட்சம் 64x64 பிக்சல்கள்)."
+  },
+  "footer_disclaimer": {
+    "en": "Academic Major Project: AI Plant Doctor. Decision-support tool. Not a substitute for certified agricultural specialists.",
+    "ta": "கல்வி திட்டம்: AI தாவர மருத்துவர். முடிவெடுக்கும் உதவிக்கருவி மட்டுமே, சான்றிதழ் பெற்ற வேளாண் நிபுணர்களுக்கு மாற்றல்ல."
+  }
+}

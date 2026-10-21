@@ -1,0 +1,194 @@
+{
+  "yellowing_leaves": {
+    "symptom_id": "yellowing_leaves",
+    "name": {
+      "en": "Yellowing Leaves (Chlorosis)",
+      "ta": "இலைகள் மஞ்சள் நிறமாதல்"
+    },
+    "description": {
+      "en": "Loss of normal green pigmentation in leaves, turning pale yellow or whitish.",
+      "ta": "இலைகளில் உள்ள பச்சையம் குறைந்து வெளிறிய மஞ்சள் நிறமாக மாறுதல்."
+    },
+    "possible_causes": [
+      {
+        "cause": "Nitrogen Deficiency",
+        "details": "Affects older lower leaves first, uniform yellowing from tip downwards.",
+        "type": "Nutritional"
+      },
+      {
+        "cause": "Waterlogging or Poor Drainage",
+        "details": "Root suffocation prevents nutrient uptake leading to generalized chlorosis.",
+        "type": "Environmental"
+      },
+      {
+        "cause": "Early Blight or Bacterial Infection",
+        "details": "Yellow halo surrounding dark necrotized concentric lesions.",
+        "type": "Pathogen"
+      },
+      {
+        "cause": "Sucking Pests (Whitefly, Thrips)",
+        "details": "Sap drainage and transmission of chlorotic leaf curl viruses.",
+        "type": "Pest"
+      }
+    ],
+    "field_action": {
+      "en": "Check soil moisture first; inspect leaf undersides for pests; submit soil/leaf samples to local Agricultural Extension Center before applying heavy fertilizers.",
+      "ta": "மண் ஈரப்பதத்தைச் சரிபார்க்கவும்; இலை அடியில் பூச்சிகளை ஆய்வு செய்யவும்; வேளாண் மையத்தில் மண் பரிசோதனை செய்து உரம் இடவும்."
+    }
+  },
+  "brown_black_spots": {
+    "symptom_id": "brown_black_spots",
+    "name": {
+      "en": "Brown or Black Leaf Spots (Necrosis)",
+      "ta": "பழுப்பு அல்லது கருப்பு இலைப்புள்ளிகள்"
+    },
+    "description": {
+      "en": "Localized patches of dead cells on foliage varying in shape from circular target rings to angular lesions.",
+      "ta": "இலைகளில் வளைய வடிவில் அல்லது ஒழுங்கற்ற வடிவில் தோன்றும் காய்ந்த இறந்த திசுப் புள்ளிகள்."
+    },
+    "possible_causes": [
+      {
+        "cause": "Fungal Leaf Spot (Alternaria / Cercospora)",
+        "details": "Concentric rings (target board) typical of Early Blight or Tikka leaf spot.",
+        "type": "Fungal"
+      },
+      {
+        "cause": "Bacterial Spot (Xanthomonas)",
+        "details": "Small dark circular water-soaked lesions that later dry out and tear.",
+        "type": "Bacterial"
+      },
+      {
+        "cause": "Chemical Spray Scorch",
+        "details": "Irregular burnt patches caused by pesticide overdose or spray during high midday heat.",
+        "type": "Abiotic"
+      }
+    ],
+    "field_action": {
+      "en": "Avoid overhead watering; remove infected lower leaves; verify weather conditions for fungal risk and consult your local Agricultural Officer.",
+      "ta": "மேலிருந்து தெளிக்கும் பாசனத்தைத் தவிர்க்கவும்; காய்ந்த கீழ் இலைகளை அகற்றவும்; வேளாண் அதிகாரியை அணுகவும்."
+    }
+  },
+  "wilting": {
+    "symptom_id": "wilting",
+    "name": {
+      "en": "Wilting (Drooping Foliage)",
+      "ta": "பயிர் வாடல்"
+    },
+    "description": {
+      "en": "Loss of turgidity in leaves and stems causing the plant to droop limply.",
+      "ta": "தண்டு மற்றும் இலைகளில் விரைப்புத்தன்மை குறைந்து செடி தொங்கி வாடிப் போதல்."
+    },
+    "possible_causes": [
+      {
+        "cause": "Moisture Stress / High Transpiration",
+        "details": "Soil is dry; plants recover during cool evening or following irrigation.",
+        "type": "Environmental"
+      },
+      {
+        "cause": "Bacterial Wilt (Ralstonia solanacearum)",
+        "details": "Sudden green wilt without yellowing; milky bacterial stream oozes from cut stem in water.",
+        "type": "Bacterial"
+      },
+      {
+        "cause": "Root Rot / Nematode Galling",
+        "details": "Destruction of root system prevents water translocation despite wet soil.",
+        "type": "Pathogen / Pest"
+      }
+    ],
+    "field_action": {
+      "en": "Check root zone soil. If soil is wet but plant wilts, test stem in clear water for bacterial streaming and seek immediate extension officer inspection.",
+      "ta": "மண் ஈரமாக இருந்தும் செடி வாடினால் தண்டை வெட்டி நீரில் வைத்து பாக்டீரியா கசிவை பரிசோதித்து அதிகாரியிடம் காண்பிக்கவும்."
+    }
+  },
+  "holes_in_leaves": {
+    "symptom_id": "holes_in_leaves",
+    "name": {
+      "en": "Holes in Leaves / Defoliation",
+      "ta": "இலைகளில் துளைகள் மற்றும் சேதம்"
+    },
+    "description": {
+      "en": "Chewed irregular holes, skeletonized veins, or missing leaf margins.",
+      "ta": "பூச்சிகளால் கடிக்கப்பட்ட துளைகள், நரம்புகள் மட்டும் எஞ்சிய நிலை அல்லது இலை விளிம்பு சேதம்."
+    },
+    "possible_causes": [
+      {
+        "cause": "Caterpillars (Spodoptera, Helicoverpa)",
+        "details": "Voracious chewing of leaf blades and flower buds leaving dark frass pellets.",
+        "type": "Pest"
+      },
+      {
+        "cause": "Beetles and Weevils",
+        "details": "Circular or shot-hole feeding marks across foliage.",
+        "type": "Pest"
+      },
+      {
+        "cause": "Mechanical Hail Damage",
+        "details": "Torn leaf blades following sudden intense hailstorms or physical injury.",
+        "type": "Abiotic"
+      }
+    ],
+    "field_action": {
+      "en": "Handpick visible caterpillars during early morning or dusk; deploy pheromone traps; spray approved bio-control agents like Bacillus thuringiensis (Bt) or neem formulation.",
+      "ta": "காலை வேளையில் புழுக்களை கைகளால் சேகரித்து அழிக்கவும்; இனக்கவர்ச்சி பொறி வைக்கவும்; வேப்பெண்ணெய் அல்லது பேசிலஸ் துரிஞ்சியென்சிஸ் தெளிக்கவும்."
+    }
+  },
+  "leaf_curling": {
+    "symptom_id": "leaf_curling",
+    "name": {
+      "en": "Leaf Curling & Crinkling",
+      "ta": "இலைச் சுருட்டை"
+    },
+    "description": {
+      "en": "Upward or downward rolling, puckering, and deformation of leaf lamina.",
+      "ta": "இலைகள் மேல்நோக்கி அல்லது கீழ்நோக்கி சுருண்டு தடித்து போதல்."
+    },
+    "possible_causes": [
+      {
+        "cause": "Leaf Curl Virus (Begomovirus)",
+        "details": "Upward curling, puckering, vein thickening, stunted bushy plant growth.",
+        "type": "Viral"
+      },
+      {
+        "cause": "Sucking Pests (Aphids, Thrips, Mites)",
+        "details": "Downwards leaf cupping with distorted margins and sticky honeydew residues.",
+        "type": "Pest"
+      },
+      {
+        "cause": "Herbicide Drift / Heat Stress",
+        "details": "Strap-like leaf distortion following hormonal weedicide drift from neighbouring fields.",
+        "type": "Abiotic"
+      }
+    ],
+    "field_action": {
+      "en": "Manage vector populations (whiteflies, thrips) using yellow sticky traps and neem sprays; rogue out severely stunted viral plants immediately to prevent field spread.",
+      "ta": "மஞ்சள் நிற ஒட்டும் பொறிகளைப் பயன்படுத்தவும்; பூச்சிகளைக் கட்டுப்படுத்தவும்; பாதிக்கப்பட்ட வைரஸ் செடிகளை பிடுங்கி அழிக்கவும்."
+    }
+  },
+  "white_powdery_growth": {
+    "symptom_id": "white_powdery_growth",
+    "name": {
+      "en": "White Powdery Growth on Leaves",
+      "ta": "இலைகளில் வெள்ளை மாவு போன்ற பூஞ்சை"
+    },
+    "description": {
+      "en": "Fluffy white or talcum-powder-like fungal patches covering leaf surfaces, stems, or buds.",
+      "ta": "இலைகளின் மேற்பரப்பில் டால்கம் பவுடர் போன்ற வெள்ளை நிற பூஞ்சை படிவம்."
+    },
+    "possible_causes": [
+      {
+        "cause": "Powdery Mildew (Erysiphaceae)",
+        "details": "Superficial white fungal mycelium spreading across dry, warm days with high humidity.",
+        "type": "Fungal"
+      },
+      {
+        "cause": "Mealybug Infestation",
+        "details": "Cottony wax secretions surrounding colonies of soft-bodied white insects.",
+        "type": "Pest"
+      }
+    ],
+    "field_action": {
+      "en": "Inspect under magnifying lens to distinguish fungal mycelium from crawling mealybugs; improve air circulation; apply wettable sulfur or approved biocontrol under official extension guidance.",
+      "ta": "பூதக்கண்ணாடி மூலம் பூஞ்சையா அல்லது மாவுப்பூச்சியா என பிரித்தறியவும்; காற்றோட்டத்தை மேம்படுத்தவும்; வேளாண் அலுவலர் வழிகாட்டுதலுடன் நனையும் கந்தகம் தெளிக்கவும்."
+    }
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "tomato": {
+    "plant_id": "tomato",
+    "common_name": {
+      "en": "Tomato",
+      "ta": "தக்காளி"
+    },
+    "scientific_name": "Solanum lycopersicum",
+    "family": "Solanaceae",
+    "category": "Vegetables",
+    "description": {
+      "en": "Widely cultivated warm-season herbaceous plant producing nutrient-rich edible berries.",
+      "ta": "சத்துக்கள் நிறைந்த உண்ணக்கூடிய பழங்களைத் தரும் பரவலாக பயிரிடப்படும் பயிர்."
+    },
+    "identifying_characteristics": {
+      "en": "Glandular hairy stems with strong aroma, pinnate leaves with 5-9 leaflets.",
+      "ta": "சுரப்பி முடிகள் கொண்ட நறுமணத் தண்டு, 5-9 சிற்றிலைகள் கொண்ட கூட்டிலைகள்."
+    },
+    "leaf_characteristics": {
+      "en": "Deeply lobed or toothed compound leaves, spirally arranged, glandular pubescence.",
+      "ta": "ஆழமான பிளவுகள் கொண்ட விளிம்புகள், சுழல் அமைப்பில் அமைந்த இலைகள்."
+    },
+    "flower_fruit": {
+      "en": "Small yellow star-shaped flowers; fleshy berry fruit ranging from green to vibrant red.",
+      "ta": "சிறிய மஞ்சள் நிற நட்சத்திர வடிவ பூக்கள்; பச்சையிலிருந்து சிவப்பு நிறமாக மாறும் கனி."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun (6-8 hours daily)",
+      "watering": "Consistent, deep root watering; avoid wetting foliage",
+      "soil": "Well-draining, fertile loamy soil with pH 6.0-6.8",
+      "temperature_c": "21°C - 29°C"
+    },
+    "common_pests": [
+      "Whitefly (Bemisia tabaci)",
+      "Fruit Borer (Helicoverpa armigera)",
+      "Leaf Miner (Liriomyza trifolii)"
+    ],
+    "known_diseases": [
+      "tomato_bacterial_spot",
+      "tomato_early_blight",
+      "tomato_late_blight"
+    ],
+    "prevention_care": {
+      "en": "Stake plants early, use drip irrigation, remove lower sucker leaves for airflow, mulch base.",
+      "ta": "செடிகளுக்கு முட்டுக்கொடுக்கவும், சொட்டுநீர் பாசனம் அமைக்கவும், காற்றோட்டத்திற்கு கீழ் இலைகளை நீக்கவும்."
+    },
+    "safety_notes": {
+      "en": "Green foliage and stems contain solanine; do not consume non-fruit plant parts.",
+      "ta": "இலை மற்றும் தண்டுகளில் சோலனைன் உள்ளதால் பழங்களை மட்டுமே உட்கொள்ள வேண்டும்."
+    },
+    "support_status": "both_models",
+    "references": [
+      "TNAU Agritech Portal: Horticulture Crops",
+      "ICAR-IIHR Tomato Production Guide"
+    ],
+    "verification_status": "Verified against state agricultural university standards"
+  },
+  "paddy": {
+    "plant_id": "paddy",
+    "common_name": {
+      "en": "Paddy (Rice)",
+      "ta": "நெல்"
+    },
+    "scientific_name": "Oryza sativa",
+    "family": "Poaceae",
+    "category": "Cereals",
+    "description": {
+      "en": "Major staple cereal crop cultivated primarily under flooded lowland and irrigated wetland regimes.",
+      "ta": "நீர்ப்பாசன வசதியுடன் பயிரிடப்படும் முதன்மையான உணவு தானியப் பயிர்."
+    },
+    "identifying_characteristics": {
+      "en": "Hollow jointed stems (culms), long linear flat leaves with ligule and auricle at leaf-sheath junction.",
+      "ta": "உள்ளீடற்ற தண்டு, நீண்ட நேரான இலைகள், தண்டுடன் இணையும் இடத்தில் இலை நாக்கு."
+    },
+    "leaf_characteristics": {
+      "en": "Long, flat, parallel-veined green blades with rough scabrous margins.",
+      "ta": "நீண்ட தட்டையான இணையான நரம்பமைப்புக் கொண்ட கடினமான ஓரங்கள் கொண்ட இலைகள்."
+    },
+    "flower_fruit": {
+      "en": "Terminal pendulous panicle carrying single-seeded grains enclosed by lemma and palea (husk).",
+      "ta": "தொங்கும் கதிர், உமிக்குள் அமைந்த ஒரு விதை கொண்ட தானிய மணிகள்."
+    },
+    "growing_conditions": {
+      "sunlight": "High intensity sunlight (6+ hours daily)",
+      "watering": "Shallow standing water (2-5 cm) during vegetative stage; drain before harvest",
+      "soil": "Clayey or heavy loam soils capable of retaining water with pH 5.5-7.0",
+      "temperature_c": "20°C - 35°C"
+    },
+    "common_pests": [
+      "Stem Borer (Scirpophaga incertulas)",
+      "Brown Planthopper (Nilaparvata lugens)",
+      "Gall Midge (Orseolia oryzae)"
+    ],
+    "known_diseases": [
+      "paddy_blast"
+    ],
+    "prevention_care": {
+      "en": "Adopt split nitrogen application, maintain clean bunds, follow seed treatment with bio-agents.",
+      "ta": "தழைச்சத்தை பிரித்து இடவும், வரப்புகளை தூய்மையாக பராமரிக்கவும், விதை நேர்த்தி செய்யவும்."
+    },
+    "safety_notes": {
+      "en": "Stagnant standing water can breed mosquitoes; maintain alternate wetting and drying where suitable.",
+      "ta": "தண்ணீர் தேங்குவதை சீரமைத்து மாற்று நனைத்தல் மற்றும் உலர்த்தல் முறையைக் கையாளவும்."
+    },
+    "support_status": "info_only",
+    "references": [
+      "TNAU Paddy Crop Management Guide",
+      "ICAR-NRRI Cuttack Technical Bulletins"
+    ],
+    "verification_status": "Verified against ICAR-NRRI protocols"
+  },
+  "groundnut": {
+    "plant_id": "groundnut",
+    "common_name": {
+      "en": "Groundnut (Peanut)",
+      "ta": "நிலக்கடலை"
+    },
+    "scientific_name": "Arachis hypogaea",
+    "family": "Fabaceae",
+    "category": "Legumes",
+    "description": {
+      "en": "Important food legume and oilseed crop with the unique geocarpic habit of maturing pods underground.",
+      "ta": "மண்ணிற்கு அடியில் காய்கள் முதிரும் தனித்தன்மை கொண்ட முக்கிய எண்ணெய் வித்து மற்றும் பருப்புப் பயிர்."
+    },
+    "identifying_characteristics": {
+      "en": "Pinnately compound leaves with two pairs of opposite leaflets, yellow pea-like self-pollinating flowers.",
+      "ta": "இரண்டு ஜோடி சிற்றிலைகள் கொண்ட கூட்டிலை, மஞ்சள் நிற பட்டாணி போன்ற பூக்கள்."
+    },
+    "leaf_characteristics": {
+      "en": "Tetrafoliolate, obovate to elliptic leaflets with smooth margins.",
+      "ta": "நான்கு சிற்றிலைகள் கொண்ட முட்டை வடிவ மென்மையான விளிம்புள்ள இலைகள்."
+    },
+    "flower_fruit": {
+      "en": "Bright yellow flowers produced on pegs (gynophores) that elongate and penetrate the soil to form pods.",
+      "ta": "மஞ்சள் நிற பூக்கள், மண்ணிற்குள் இறங்கி காய்களாக மாறும் விழுதுகள்."
+    },
+    "growing_conditions": {
+      "sunlight": "Full direct sunlight",
+      "watering": "Moderate watering; crucial at flowering and peg penetration stages",
+      "soil": "Well-drained sandy loam rich in organic matter and calcium with pH 6.0-7.0",
+      "temperature_c": "25°C - 30°C"
+    },
+    "common_pests": [
+      "Leaf Miner (Aproaerema modicella)",
+      "Spodoptera litura (Tobacco Caterpillar)",
+      "Aphis craccivora (Groundnut Aphid)"
+    ],
+    "known_diseases": [
+      "groundnut_tikka"
+    ],
+    "prevention_care": {
+      "en": "Apply gypsum at pegging stage, ensure loose friable soil, avoid waterlogging.",
+      "ta": "விழுது இறங்கும் போது ஜிப்சம் இடவும், மண் இளக்கமாக இருக்க பராமரிக்கவும்."
+    },
+    "safety_notes": {
+      "en": "Harvested pods must be dried rapidly to prevent Aspergillus flavus aflatoxin contamination.",
+      "ta": "அஃப்லாடாக்சின் நச்சுப் பூஞ்சை உருவாவதைத் தடுக்க அறுவடை செய்த காய்களை நன்றாக உலர்த்தவும்."
+    },
+    "support_status": "info_only",
+    "references": [
+      "ICAR-DGR Junagadh Agricultural Guidelines",
+      "TNAU Agritech Portal: Oilseeds"
+    ],
+    "verification_status": "Verified against ICAR-DGR guidelines"
+  },
+  "tulsi": {
+    "plant_id": "tulsi",
+    "common_name": {
+      "en": "Holy Basil (Tulsi)",
+      "ta": "துளசி"
+    },
+    "scientific_name": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "category": "Medicinal plants",
+    "description": {
+      "en": "Revered aromatic medicinal shrub widely cultivated across India for medicinal, essential oil, and spiritual uses.",
+      "ta": "மருத்துவ மற்றும் நறுமணக் குணங்களுக்காக இந்தியாவெங்கும் வளர்க்கப்படும் புனித மருத்துவச் செடி."
+    },
+    "identifying_characteristics": {
+      "en": "Square stems, strongly fragrant glandular leaves, small purple to white flowers in terminal racemes.",
+      "ta": "நாற்கோணத் தண்டு, நறுமணமிக்க இலைகள், நுனியில் அமைந்த சிறிய ஊதா-வெள்ளை நிற பூங்கொத்து."
+    },
+    "leaf_characteristics": {
+      "en": "Opposite, ovate, slightly serrate green or purplish leaves covered in tiny aromatic oil glands.",
+      "ta": "எதிர் அடுக்கில் அமைந்த சிறிய பற்கள் போன்ற விளிம்புகள் கொண்ட நறுமண இலைகள்."
+    },
+    "flower_fruit": {
+      "en": "Small tubular blossoms arranged in close whorls on terminal spikes.",
+      "ta": "நுனிக்கதிரில் அடுக்காக அமைந்த சிறிய குழல் வடிவ பூக்கள்."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun to partial shade (4-6 hours sunlight)",
+      "watering": "Moderate; allow topsoil to dry slightly between waterings",
+      "soil": "Rich, porous, well-draining loam with pH 6.5-7.5",
+      "temperature_c": "20°C - 35°C"
+    },
+    "common_pests": [
+      "Aphids",
+      "Spider Mites",
+      "Lace Bugs"
+    ],
+    "known_diseases": [
+      "leaf_spot_fungal",
+      "powdery_mildew"
+    ],
+    "prevention_care": {
+      "en": "Pinch flower buds to promote bushy foliage; avoid water accumulation at base.",
+      "ta": "செடி அடர்த்தியாக வளர பூ மொட்டுகளை கிள்ளிவிடவும்; வேரில் நீர் தேங்காமல் பார்த்துக் கொள்ளவும்."
+    },
+    "safety_notes": {
+      "en": "Medicinal preparations should be used under certified Ayurvedic/herbal practitioner guidance.",
+      "ta": "மருத்துவப் பயன்பாட்டிற்கு சான்றிதழ் பெற்ற ஆயுர்வேத அல்லது மூலிகை மருத்துவர் ஆலோசனை பெறவும்."
+    },
+    "support_status": "info_only",
+    "references": [
+      "National Medicinal Plants Board (NMPB) Monographs",
+      "Ayush Ayurvedic Pharmacopoeia of India"
+    ],
+    "verification_status": "Verified against NMPB monographs"
+  },
+  "neem": {
+    "plant_id": "neem",
+    "common_name": {
+      "en": "Neem Tree",
+      "ta": "வேப்ப மரம்"
+    },
+    "scientific_name": "Azadirachta indica",
+    "family": "Meliaceae",
+    "category": "Trees",
+    "description": {
+      "en": "Hardy drought-tolerant evergreen tree valued globally for organic biopesticidal azadirachtin and medicinal properties.",
+      "ta": "இயற்கை பூச்சிக்கொல்லி மற்றும் மருத்துவக் குணங்களுக்காக புகழ்பெற்ற வறட்சியைத் தாங்கும் பசுமையான மரம்."
+    },
+    "identifying_characteristics": {
+      "en": "Deeply furrowed greyish-brown bark, dense spreading crown, pinnately compound falcate leaves.",
+      "ta": "பிளவுகள் கொண்ட சாம்பல்-பழுப்பு பட்டை, அடர்ந்த இலைப்பரப்பு, அரிவாள் போன்ற வளைந்த இலைகள்."
+    },
+    "leaf_characteristics": {
+      "en": "Alternate, once-pinnate leaves with 20-30 distinctly asymmetric, serrated curved leaflets.",
+      "ta": "ஒன்றைக்கொன்று இணையற்ற சமச்சீரற்ற விளிம்புகளுடன் கூடிய அரிவாள் வடிவ சிற்றிலைகள்."
+    },
+    "flower_fruit": {
+      "en": "Fragrant small white star-like flowers in axillary panicles; smooth ellipsoidal greenish-yellow drupes.",
+      "ta": "நறுமணமுள்ள வெள்ளை நிற பூக்கள்; மஞ்சள் கலந்த பச்சை நிற முட்டை வடிவ பழங்கள்."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "watering": "Low to drought tolerant once established",
+      "soil": "Thrives on wide range of soils including stony, shallow, or clayey soils with pH 6.0-8.5",
+      "temperature_c": "15°C - 45°C"
+    },
+    "common_pests": [
+      "Tea Mosquito Bug (Helopeltis antonii)",
+      "Scale insects"
+    ],
+    "known_diseases": [
+      "neem_dieback"
+    ],
+    "prevention_care": {
+      "en": "Maintain sanitation around trunk; prune dead or dieback affected twigs promptly.",
+      "ta": "மண்ணைச் சுற்றி சுத்தமாக வைத்திருக்கவும்; காய்ந்த கிளைகளை உடனுக்குடன் வெட்டி அகற்றவும்."
+    },
+    "safety_notes": {
+      "en": "Neem oil extracts should be diluted per label; concentrated pure neem oil is not for unguided internal consumption.",
+      "ta": "வேப்பெண்ணெயை சரியான அளவில் கலந்து பயன்படுத்தவும்; மருத்துவ வழிகாட்டுதல் இன்றி உட்கொள்ளக் கூடாது."
+    },
+    "support_status": "info_only",
+    "references": [
+      "Indian Council of Forestry Research and Education (ICFRE)",
+      "TNAU Agroforestry Portal"
+    ],
+    "verification_status": "Verified against ICFRE forestry protocols"
+  },
+  "mango": {
+    "plant_id": "mango",
+    "common_name": {
+      "en": "Mango",
+      "ta": "மாமரம்"
+    },
+    "scientific_name": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "category": "Fruit plants",
+    "description": {
+      "en": "The King of Fruits in India; large tropical fruit tree widely cultivated for high commercial value.",
+      "ta": "இந்தியாவின் கனிராஜா; வணிக முக்கியத்துவம் வாய்ந்த உலகப் புகழ்பெற்ற பழ மரம்."
+    },
+    "identifying_characteristics": {
+      "en": "Dense broad evergreen canopy, reddish-pink tender leaves turning dark glossy green.",
+      "ta": "அடர்ந்த பசுமையான இலைப்பரப்பு, இளம் தளிர் இலைகள் இளஞ்சிவப்பாக இருந்து அடர் பச்சையாக மாறும்."
+    },
+    "leaf_characteristics": {
+      "en": "Simple, alternate, lanceolate or oblong leaves with wavy undulate margins.",
+      "ta": "அலைபோன்ற விளிம்புகள் கொண்ட நீண்ட ஈட்டி வடிவ தனி இலைகள்."
+    },
+    "flower_fruit": {
+      "en": "Branched panicles with hundreds of tiny yellowish flowers; large fleshy drupes containing a single large stone.",
+      "ta": "நூற்றுக்கணக்கான சிறிய மஞ்சள் மலர்களைக் கொண்ட பூங்கொத்து; பெரிய சதைப்பற்றுள்ள மாம்பழம்."
+    },
+    "growing_conditions": {
+      "sunlight": "Full direct sunlight",
+      "watering": "Regular watering during establishment; restrict water 2 months prior to flowering",
+      "soil": "Deep, well-draining alluvial or loamy soil with depth > 2 meters, pH 5.5-7.5",
+      "temperature_c": "24°C - 30°C"
+    },
+    "common_pests": [
+      "Mango Hopper (Amritodus atkinsoni)",
+      "Fruit Fly (Bactrocera dorsalis)",
+      "Stem Borer (Batocera rufomaculata)"
+    ],
+    "known_diseases": [
+      "mango_anthracnose",
+      "powdery_mildew"
+    ],
+    "prevention_care": {
+      "en": "Prune criss-cross branches post-harvest to allow sunlight into centre of canopy.",
+      "ta": "அறுவடைக்குப் பின் சூரிய ஒளி உள்ளே செல்ல குறுக்கு கிளைகளை கவாத்து செய்யவும்."
+    },
+    "safety_notes": {
+      "en": "Mango tree sap (latex) contains urushiol-like resorcinols that can cause dermatitis in sensitive individuals.",
+      "ta": "மாமரத்தின் பால் சருமத்தில் பட்டால் ஒவ்வாமை அல்லது அரிப்பு உண்டாகலாம்."
+    },
+    "support_status": "info_only",
+    "references": [
+      "ICAR-CISH Lucknow Mango Guidelines",
+      "TNAU Agritech Portal: Mango Cultivation"
+    ],
+    "verification_status": "Verified against ICAR-CISH Lucknow standards"
+  },
+  "hibiscus": {
+    "plant_id": "hibiscus",
+    "common_name": {
+      "en": "China Rose (Hibiscus)",
+      "ta": "செம்பருத்தி"
+    },
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "category": "Flowers",
+    "description": {
+      "en": "Tropical flowering evergreen shrub renowned for large vibrant showy flowers and traditional hair care benefits.",
+      "ta": "பெரிய வண்ணமயமான மலர்கள் மற்றும் கூந்தல் பராமரிப்பு மருத்துவக் குணங்கள் கொண்ட பிரபலமான அழகுச் செடி."
+    },
+    "identifying_characteristics": {
+      "en": "Prominent staminal column protruding well beyond the petals, glossy ovate leaves.",
+      "ta": "இதழ்களுக்கு வெளியே நீண்ட மகரந்தக் குழல், பளபளப்பான முட்டை வடிவ இலைகள்."
+    },
+    "leaf_characteristics": {
+      "en": "Glossy green, alternate, ovate to lanceolate with coarsely toothed serrate margins.",
+      "ta": "பளபளப்பான பச்சை, பற்கள் போன்ற வெட்டு விளிம்புகள் கொண்ட இலைகள்."
+    },
+    "flower_fruit": {
+      "en": "Large solitary bell-shaped flowers in shades of red, pink, yellow, and white with 5 petals.",
+      "ta": "ஐந்து இதழ்கள் கொண்ட பெரிய மணி வடிவ மலர்கள்."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun to bright indirect light",
+      "watering": "Keep soil evenly moist but well-drained",
+      "soil": "Fertile, loamy, slightly acidic soil enriched with organic compost, pH 6.0-6.8",
+      "temperature_c": "18°C - 32°C"
+    },
+    "common_pests": [
+      "Mealybugs",
+      "Aphids",
+      "Whiteflies"
+    ],
+    "known_diseases": [
+      "hibiscus_leaf_curl",
+      "sooty_mold"
+    ],
+    "prevention_care": {
+      "en": "Prune annually to stimulate flowering wood; spray organic neem soap for mealybug prevention.",
+      "ta": "வருடாந்திர கவாத்து செய்யவும்; மாவுப்பூச்சியைக் கட்டுப்படுத்த வேப்பெண்ணெய் கரைசல் தெளிக்கவும்."
+    },
+    "safety_notes": {
+      "en": "Petals are generally non-toxic and used in herbal teas; ensure plants are free from synthetic systemic insecticides.",
+      "ta": "பூக்கள் நச்சுத்தன்மையற்றவை; எனினும் ரசாயன பூச்சிக்கொல்லி தெளிக்கப்பட்ட செடிகளைப் பயன்படுத்தக் கூடாது."
+    },
+    "support_status": "info_only",
+    "references": [
+      "Royal Horticultural Society Plant Guides",
+      "TNAU Floriculture Portal"
+    ],
+    "verification_status": "Verified against botanical references"
+  },
+  "turmeric": {
+    "plant_id": "turmeric",
+    "common_name": {
+      "en": "Turmeric",
+      "ta": "மஞ்சள்"
+    },
+    "scientific_name": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "category": "Spices",
+    "description": {
+      "en": "Perennial rhizomatous spice crop cultivated widely for dietary curcumin, dye, and antimicrobial properties.",
+      "ta": "குர்குமின் மற்றும் மருத்துவக் குணங்களுக்காக பரவலாக பயிரிடப்படும் முக்கிய நறுமண மசாலாப் பயிர்."
+    },
+    "identifying_characteristics": {
+      "en": "Large oblong lanceolate green leaves arising directly from underground tuberous rhizomes.",
+      "ta": "மண்ணிற்கு அடியில் உள்ள கிழங்கிலிருந்து நேரடியாக வெளிவரும் பெரிய நீண்ட பச்சை இலைகள்."
+    },
+    "leaf_characteristics": {
+      "en": "Broad, smooth, deep-green blade with parallel pinnate venation and long sheathing petiole.",
+      "ta": "நீண்ட காம்பு கொண்ட அகலமான மென்மையான அடர் பச்சை இலைகள்."
+    },
+    "flower_fruit": {
+      "en": "Dense spike of greenish-white bracts with pinkish tips; false stem formed by leaf sheaths.",
+      "ta": "இளஞ்சிவப்பு முனைகள் கொண்ட வெள்ளை நிற பூங்கொத்து."
+    },
+    "growing_conditions": {
+      "sunlight": "Warm humid climate with filtered sunlight or light shade",
+      "watering": "Abundant water during rhizome development; withhold 15 days before harvest",
+      "soil": "Friable, rich loamy or alluvial soil with high drainage capacity, pH 5.5-6.5",
+      "temperature_c": "20°C - 35°C"
+    },
+    "common_pests": [
+      "Shoot Borer (Conogethes punctiferalis)",
+      "Rhizome Scale"
+    ],
+    "known_diseases": [
+      "rhizome_rot",
+      "leaf_spot_colletotrichum"
+    ],
+    "prevention_care": {
+      "en": "Provide heavy organic mulching with green leaves, ensure elevated raised beds to avoid rhizome rot.",
+      "ta": "பசுந்தாள் மூடாக்கு இடவும்; கிழங்கு அழுகல் நோயைத் தவிர்க்க மேட்டுப்பாத்தி அமைக்கவும்."
+    },
+    "safety_notes": {
+      "en": "Agricultural grade rhizomes meant for planting may be treated with protective fungicides; do not consume seed rhizomes.",
+      "ta": "விதை நேர்த்தி செய்யப்பட்ட மஞ்சள் கிழங்குகளை சமையலுக்குப் பயன்படுத்தக் கூடாது."
+    },
+    "support_status": "info_only",
+    "references": [
+      "ICAR-Indian Institute of Spices Research (IISR) Kozhikode",
+      "TNAU Agritech Portal: Spices"
+    ],
+    "verification_status": "Verified against ICAR-IISR standards"
+  }
+}

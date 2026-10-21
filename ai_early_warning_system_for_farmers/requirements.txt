@@ -1,0 +1,10 @@
+streamlit>=1.30.0
+requests>=2.28.0
+pillow>=9.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+pytest>=7.0.0
+# Note: For model training and TF inference, TensorFlow is required.
+# On Python 3.10-3.11, install tensorflow==2.15.0 or 2.16.1.
+# On systems where TF wheels are unavailable or Python > 3.11, the app runs cleanly in decision-support mode with diagnostics.
+# tensorflow>=2.15.0

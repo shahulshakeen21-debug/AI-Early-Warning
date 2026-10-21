@@ -1,0 +1,122 @@
+{
+  "registry_version": "2.0.0",
+  "supported_species": {
+    "tomato": {
+      "plant_id": "tomato",
+      "scientific_name": "Solanum lycopersicum",
+      "identification_model_classes": [
+        "Tomato"
+      ],
+      "disease_model_classes": [
+        "Tomato___Bacterial_spot",
+        "Tomato___Early_blight",
+        "Tomato___Late_blight",
+        "Tomato___healthy"
+      ],
+      "healthy_classes": [
+        "Tomato___healthy"
+      ],
+      "dataset_source": "PlantVillage (Kaggle)",
+      "identification_training_status": "planned",
+      "disease_training_status": "supported_pipeline",
+      "evaluation_status": "evaluated_on_validation_split",
+      "supported_image_conditions": "Single leaf close-up on plain or natural background with good diffuse lighting",
+      "known_limitations": "Trained on lab-collected PlantVillage imagery. Real-field photos with overlapping foliage, severe shadows, or dual infections may decrease confidence."
+    },
+    "paddy": {
+      "plant_id": "paddy",
+      "scientific_name": "Oryza sativa",
+      "identification_model_classes": [],
+      "disease_model_classes": [
+        "Paddy___Blast"
+      ],
+      "healthy_classes": [],
+      "dataset_source": "Awaiting certified rice leaf blast dataset",
+      "identification_training_status": "awaiting_dataset",
+      "disease_training_status": "awaiting_dataset",
+      "evaluation_status": "untested",
+      "supported_image_conditions": "N/A until model training",
+      "known_limitations": "Model weights not yet trained. Disease detection unavailable until validated dataset is provided."
+    },
+    "groundnut": {
+      "plant_id": "groundnut",
+      "scientific_name": "Arachis hypogaea",
+      "identification_model_classes": [],
+      "disease_model_classes": [
+        "Groundnut___Tikka"
+      ],
+      "healthy_classes": [],
+      "dataset_source": "Awaiting certified groundnut leaf spot dataset",
+      "identification_training_status": "awaiting_dataset",
+      "disease_training_status": "awaiting_dataset",
+      "evaluation_status": "untested",
+      "supported_image_conditions": "N/A until model training",
+      "known_limitations": "Model weights not yet trained. Disease detection unavailable until validated dataset is provided."
+    },
+    "tulsi": {
+      "plant_id": "tulsi",
+      "scientific_name": "Ocimum tenuiflorum",
+      "identification_model_classes": [],
+      "disease_model_classes": [],
+      "healthy_classes": [],
+      "dataset_source": "Information knowledge base only",
+      "identification_training_status": "not_supported",
+      "disease_training_status": "not_supported",
+      "evaluation_status": "information_only",
+      "supported_image_conditions": "N/A",
+      "known_limitations": "Species entry is for botanical care and advice only. No image classifier currently supports this plant."
+    },
+    "neem": {
+      "plant_id": "neem",
+      "scientific_name": "Azadirachta indica",
+      "identification_model_classes": [],
+      "disease_model_classes": [],
+      "healthy_classes": [],
+      "dataset_source": "Information knowledge base only",
+      "identification_training_status": "not_supported",
+      "disease_training_status": "not_supported",
+      "evaluation_status": "information_only",
+      "supported_image_conditions": "N/A",
+      "known_limitations": "Information knowledge base only. No image classifier currently supports this plant."
+    },
+    "mango": {
+      "plant_id": "mango",
+      "scientific_name": "Mangifera indica",
+      "identification_model_classes": [],
+      "disease_model_classes": [],
+      "healthy_classes": [],
+      "dataset_source": "Information knowledge base only",
+      "identification_training_status": "not_supported",
+      "disease_training_status": "not_supported",
+      "evaluation_status": "information_only",
+      "supported_image_conditions": "N/A",
+      "known_limitations": "Information knowledge base only. No image classifier currently supports this plant."
+    },
+    "hibiscus": {
+      "plant_id": "hibiscus",
+      "scientific_name": "Hibiscus rosa-sinensis",
+      "identification_model_classes": [],
+      "disease_model_classes": [],
+      "healthy_classes": [],
+      "dataset_source": "Information knowledge base only",
+      "identification_training_status": "not_supported",
+      "disease_training_status": "not_supported",
+      "evaluation_status": "information_only",
+      "supported_image_conditions": "N/A",
+      "known_limitations": "Information knowledge base only. No image classifier currently supports this plant."
+    },
+    "turmeric": {
+      "plant_id": "turmeric",
+      "scientific_name": "Curcuma longa",
+      "identification_model_classes": [],
+      "disease_model_classes": [],
+      "healthy_classes": [],
+      "dataset_source": "Information knowledge base only",
+      "identification_training_status": "not_supported",
+      "disease_training_status": "not_supported",
+      "evaluation_status": "information_only",
+      "supported_image_conditions": "N/A",
+      "known_limitations": "Information knowledge base only. No image classifier currently supports this plant."
+    }
+  }
+}

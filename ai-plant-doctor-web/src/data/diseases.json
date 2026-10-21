@@ -1,0 +1,487 @@
+{
+  "tomato_bacterial_spot": {
+    "disease_id": "tomato_bacterial_spot",
+    "crop": "Tomato",
+    "name": {
+      "en": "Tomato Bacterial Spot",
+      "ta": "தக்காளி பாக்டீரியா இலைப்புள்ளி நோய்"
+    },
+    "pathogen": "Xanthomonas perforans / Xanthomonas vesicatoria",
+    "short_description": {
+      "en": "A common bacterial infection causing dark, water-soaked circular lesions on leaves, stems, and fruits.",
+      "ta": "இலைகள் மற்றும் தண்டுகளில் நீர் தோய்ந்த கரும் புள்ளிகளை உண்டாக்கும் பொதுவான பாக்டீரியா தொற்று."
+    },
+    "symptoms": {
+      "en": [
+        "Small, dark brown to black circular lesions on leaves often surrounded by a yellow halo.",
+        "Lesions may coalesce causing leaf blighting and premature defoliation.",
+        "Scabby, slightly raised spots on green fruit surfaces."
+      ],
+      "ta": [
+        "இலைகளில் மஞ்சள் நிற வளையத்துடன் கூடிய சிறிய, கரும் பழுப்பு அல்லது கருப்பு வட்டப் புள்ளிகள்.",
+        "புள்ளிகள் இணைந்து இலைகள் காய்ந்து உதிர்ந்து போதல்.",
+        "பச்சை காய்களின் மேற்பரப்பில் கரடுமுரடான தடிப்புகள்."
+      ]
+    },
+    "prevention": {
+      "en": [
+        "Use certified pathogen-free seeds and disease-free nursery transplants.",
+        "Practice a 2-3 year crop rotation away from solanaceous crops (chilli, brinjal, potato).",
+        "Avoid overhead sprinkler irrigation; prefer drip irrigation to keep foliage dry."
+      ],
+      "ta": [
+        "சான்றளிக்கப்பட்ட சுத்தமான விதைகள் மற்றும் நாற்றுகளைப் பயன்படுத்தவும்.",
+        "கத்தரி, மிளகாய் போன்ற பயிர்களைத் தவிர்த்து 2-3 ஆண்டுகள் பயிர் சுழற்சி செய்யவும்.",
+        "இலைகள் நனையாதவாறு சொட்டு நீர் பாசன முறையைக் கடைப்பிடிக்கவும்."
+      ]
+    },
+    "cultural_management": {
+      "en": [
+        "Sanitize stakes, pruning shears, and farm equipment between field operations.",
+        "Destroy infected crop residues after harvest by deep plowing or burning where permitted.",
+        "Maintain adequate plant spacing (60 cm x 45 cm) for optimal canopy aeration."
+      ],
+      "ta": [
+        "பண்ணைக் கருவிகள் மற்றும் கம்புகளைத் தூய்மைப்படுத்தவும்.",
+        "அறுவடைக்குப் பிறகு பாதிக்கப்பட்ட பயிர்க் கழிவுகளை அப்புறப்படுத்தி அழிக்கவும்.",
+        "காற்றோட்டம் சீராக இருக்க சரியான இடைவெளியில் நடவு செய்யவும்."
+      ]
+    },
+    "monitoring_advice": {
+      "en": [
+        "Scout nursery beds and young plants weekly, especially during warm, humid conditions.",
+        "Inspect the lower leaves first where bacterial droplets collect after rain."
+      ],
+      "ta": [
+        "வெப்பமும் ஈரப்பதமும் உள்ள காலங்களில் வாரந்தோறும் நாற்றங்கால் மற்றும் செடிகளை ஆய்வு செய்யவும்.",
+        "மழைக்குப் பின் கீழ் இலைகளை உன்னிப்பாகக் கவனிக்கவும்."
+      ]
+    },
+    "safe_treatment_guidance": {
+      "en": [
+        "Copper-based bactericides (e.g., Copper Oxychloride 50% WP @ 2.5 g/L) may reduce surface spread if applied preventively under official agricultural extension advice.",
+        "Never spray bactericides or fungicides immediately before harvest. Respect Pre-Harvest Intervals (PHI) indicated on the approved product label.",
+        "Wear personal protective equipment (PPE: face mask, chemical-resistant gloves, eye goggles) during preparation and spraying.",
+        "Do not mix copper sprays with acidifying compounds or unapproved adjuvants without professional guidance."
+      ],
+      "ta": [
+        "வேளாண் அலுவலர் ஆலோசனையின்படி காப்பர் ஆக்ஸிகுளோரைடு (2.5 கிராம்/லிட்டர்) தெளிக்கலாம்.",
+        "அறுவடைக்கு முன் மருந்து தெளிக்க வேண்டாம். பரிந்துரைக்கப்பட்ட இடைவெளியைக் கடைப்பிடிக்கவும்.",
+        "தெளிக்கும் போது முகக்கவசம், கையுறை போன்ற பாதுகாப்பு உபகரணங்களை அணியவும்.",
+        "அங்கீகரிக்கப்படாத பிற ரசாயனங்களுடன் கலந்து தெளிக்க வேண்டாம்."
+      ]
+    },
+    "consultation_criteria": {
+      "en": [
+        "Consult your local Assistant Agricultural Officer (AAO) or Krishi Vigyan Kendra (KVK) if more than 10% of field plants exhibit spreading lesions despite preventive sprays.",
+        "Immediate expert confirmation is necessary if fruit lesions threaten marketable yield."
+      ],
+      "ta": [
+        "10% க்கும் மேற்பட்ட செடிகளில் பாதிப்பு காணப்பட்டால் உடனடியாக வேளாண் அலுவலரை அணுகவும்.",
+        "காய்களில் தீவிர புள்ளிகள் பரவினால் நிபுணரின் நேரடி பரிந்துரையைப் பெறவும்."
+      ]
+    },
+    "references": [
+      "TNAU Agritech Portal - Crop Protection (Tomato Bacterial Spot)",
+      "ICAR - Indian Institute of Horticultural Research (IIHR) Extension Bulletins"
+    ],
+    "review_status": "Compiled from TNAU / ICAR extension guidelines. Chemical applications must be verified with local AAO/KVK."
+  },
+  "tomato_early_blight": {
+    "disease_id": "tomato_early_blight",
+    "crop": "Tomato",
+    "name": {
+      "en": "Tomato Early Blight",
+      "ta": "தக்காளி ஆரம்பக்கால கருகல் நோய்"
+    },
+    "pathogen": "Alternaria solani",
+    "short_description": {
+      "en": "A fungal disease characterized by concentric target-like rings on older leaves, progressing upwards.",
+      "ta": "முதிர்ந்த இலைகளில் வளைய வடிவிலான கரும் புள்ளிகளை உண்டாக்கும் பூஞ்சை நோய்."
+    },
+    "symptoms": {
+      "en": [
+        "Concentric target-board rings on lower mature leaves.",
+        "Yellow chlorotic halos surrounding lesions.",
+        "Collar rot on young seedlings and dark leathery sunken spots on fruit stem ends."
+      ],
+      "ta": [
+        "அடி இலைகளில் தட்டையான இலக்கு போன்ற வளையப் புள்ளிகள்.",
+        "புள்ளிகளைச் சுற்றி இலை மஞ்சள் நிறமாக மாறுதல்.",
+        "செடியின் தண்டுப்பகுதி அழுகுதல் மற்றும் பழங்களில் கரும்பழுப்பு நிற பள்ளங்கள்."
+      ]
+    },
+    "prevention": {
+      "en": [
+        "Plant resistant or tolerant tomato varieties certified by agricultural universities.",
+        "Mulch around plant bases to prevent soil splashing fungal spores onto lower leaves.",
+        "Follow a 3-year non-solanaceous crop rotation."
+      ],
+      "ta": [
+        "பல்கலைக்கழகத்தால் பரிந்துரைக்கப்பட்ட நோய் எதிர்ப்பு ரகங்களைப் பயிரிடவும்.",
+        "மண்ணிலிருந்து நீர் தெறித்து நோய் பரவாமல் தடுக்க அடிப்புறத்தில் மூடாக்கு இடவும்.",
+        "3 வருட பயிர் சுழற்சி முறையைக் கடைப்பிடிக்கவும்."
+      ]
+    },
+    "cultural_management": {
+      "en": [
+        "Prune and safely burn or bury diseased bottom foliage.",
+        "Avoid working in tomato fields when leaves are wet to prevent spore transfer.",
+        "Stake plants to keep foliage elevated above moist soil."
+      ],
+      "ta": [
+        "பாதிக்கப்பட்ட கீழ் இலைகளை வெட்டி அப்புறப்படுத்தவும்.",
+        "இலைகள் ஈரமாக இருக்கும்போது வயல் வேலை செய்வதைத் தவிர்க்கவும்.",
+        "செடிகளைத் தாங்குக் குச்சிகளில் கட்டி நிலத்திலிருந்து உயர்த்தி வைக்கவும்."
+      ]
+    },
+    "monitoring_advice": {
+      "en": [
+        "Check bottom leaves 3-4 weeks after transplanting, especially when night temperatures are moderate and days are warm with dew."
+      ],
+      "ta": [
+        "நடவு செய்த 3-4 வாரங்களுக்குப் பின் பனி மற்றும் மிதமான வெப்பநிலை உள்ள நாட்களில் அடி இலைகளைக் கண்காணிக்கவும்."
+      ]
+    },
+    "safe_treatment_guidance": {
+      "en": [
+        "Registered protective fungicides (e.g., Mancozeb 75% WP @ 2 g/L) may be applied at the initial onset of symptoms per state university package of practices.",
+        "Always observe mandatory Pre-Harvest Intervals (e.g., typically 5-7 days for Mancozeb) before harvesting fruit.",
+        "Wear rubber gloves, apron, protective goggles, and a vapour respirator while mixing chemicals.",
+        "Do not apply when rain is forecast within 6-12 hours."
+      ],
+      "ta": [
+        "துவக்க நிலையில் மாங்கோசெப் (Mancozeb 2 கிராம்/லிட்டர்) வேளாண் அலுவலர் வழிகாட்டுதலின்படி தெளிக்கலாம்.",
+        "மருந்து தெளித்த பின் அறுவடைக்கு முன் பரிந்துரைக்கப்பட்ட காத்திருப்பு நாட்களைக் கடைப்பிடிக்கவும்.",
+        "பாதுகாப்புக் கையுறைகள் மற்றும் முகக்கவசம் அணிந்து மட்டுமே தெளிக்கவும்.",
+        "மழை பெய்ய வாய்ப்புள்ள போது மருந்து தெளிப்பதைத் தவிர்க்கவும்."
+      ]
+    },
+    "consultation_criteria": {
+      "en": [
+        "Contact the nearest KVK if blight rapidly reaches upper canopy foliage despite initial fungicide spray."
+      ],
+      "ta": [
+        "மருந்து தெளித்தும் நோய் மேல் இலைகளுக்கு வேகமாகப் பரவினால் அருகிலுள்ள KVK மையத்தை அணுகவும்."
+      ]
+    },
+    "references": [
+      "TNAU Crop Production Guide: Horticulture Crops",
+      "Central Insecticide Board and Registration Committee (CIBRC) approved labels"
+    ],
+    "review_status": "Compiled from TNAU / CIBRC standards. Chemical dosage requires local agricultural officer confirmation."
+  },
+  "tomato_late_blight": {
+    "disease_id": "tomato_late_blight",
+    "crop": "Tomato",
+    "name": {
+      "en": "Tomato Late Blight",
+      "ta": "தக்காளி பின்கருகல் நோய்"
+    },
+    "pathogen": "Phytophthora infestans",
+    "short_description": {
+      "en": "A destructive water-mold pathogen that causes rapid water-soaked lesions, white mold beneath leaves, and fruit rot in cool, damp weather.",
+      "ta": "குளிர்ந்த, ஈரப்பதமான சூழலில் இலைகள் மற்றும் காய்களை வேகமாக அழுகச் செய்யும் தீவிர பூஞ்சை போன்ற நுண்ணுயிர் தொற்று."
+    },
+    "symptoms": {
+      "en": [
+        "Large, irregular water-soaked pale green or purplish-black lesions that turn brown quickly.",
+        "Delicate white fuzzy fungal growth on the underside of leaves during high humidity.",
+        "Brown, greasy-looking, firm rot on green and ripe fruits."
+      ],
+      "ta": [
+        "இலைகளில் நீர் தோய்ந்த ஒழுங்கற்ற பழுப்பு அல்லது கருமை நிற திட்டுகள்.",
+        "அதிக ஈரப்பதத்தில் இலையின் அடிப்பகுதியில் வெள்ளை நிற பஞ்சு போன்ற வளர்ச்சி.",
+        "காய்களில் எண்ணெய் போன்ற வழவழப்பான பழுப்பு நிற அழுகல்."
+      ]
+    },
+    "prevention": {
+      "en": [
+        "Avoid planting near infected potato fields.",
+        "Ensure wide plant spacing and plant orientation parallel to prevailing winds for rapid leaf drying.",
+        "Destroy cull piles and volunteer tomato/potato plants before the season."
+      ],
+      "ta": [
+        "உருளைக்கிழங்கு பயிர்களுக்கு அருகில் தக்காளி பயிரிடுவதைத் தவிர்க்கவும்.",
+        "காற்று எளிதாகச் செல்ல போதுமான இடைவெளி விட்டு நடவு செய்யவும்.",
+        "முந்தைய பருவத்தின் எஞ்சிய செடிகளை முழுமையாக அழிக்கவும்."
+      ]
+    },
+    "cultural_management": {
+      "en": [
+        "Never use overhead irrigation.",
+        "Promptly rogue out and destroy severely blighted plants in sealed bags to avoid airborne zoospore dispersal."
+      ],
+      "ta": [
+        "மேலிருந்து தெளிக்கும் பாசனத்தைத் தவிர்க்கவும்.",
+        "தீவிரமாகப் பாதிக்கப்பட்ட செடிகளைப் பிடுங்கி பாதுகாப்பாக அழிக்கவும்."
+      ]
+    },
+    "monitoring_advice": {
+      "en": [
+        "Inspect fields daily during prolonged periods of cool (15-20°C), wet, foggy, or overcast weather."
+      ],
+      "ta": [
+        "குளிர்ந்த மற்றும் பனிமூட்டமான நாட்களில் தினமும் வயலை கண்காணிக்கவும்."
+      ]
+    },
+    "safe_treatment_guidance": {
+      "en": [
+        "Preventive applications with registered contact fungicides (such as Copper Oxychloride or Mancozeb) before disease onset; systemic fungicides (e.g., Metalaxyl + Mancozeb) only under express guidance of an Agricultural Officer.",
+        "Always follow strictly approved dosage and do not exceed maximum seasonal applications to avoid fungicide resistance.",
+        "Use full protective gear (chemical suit, chemical gloves, eye protection, respirator)."
+      ],
+      "ta": [
+        "நோய் வருமுன் காப்பர் ஆக்ஸிகுளோரைடு அல்லது மாங்கோசெப் தெளிக்கலாம்; தீவிர பாதிப்புக்கு வேளாண் அலுவலர் பரிந்துரைத்த பூஞ்சைக்கொல்லியைப் பயன்படுத்தவும்.",
+        "அளவுக்கு அதிகமாகத் தெளிக்காமல் பரிந்துரைக்கப்பட்ட அளவை மட்டும் பயன்படுத்தவும்.",
+        "முழுமையான பாதுகாப்பு உடைகள் மற்றும் உபகரணங்களை அணியவும்."
+      ]
+    },
+    "consultation_criteria": {
+      "en": [
+        "Immediate emergency consultation with local Agricultural Officer or KVK is critical because Late Blight can destroy an entire field within 7 to 10 days."
+      ],
+      "ta": [
+        "பின்கருகல் நோய் மிக வேகமாக முழு வயலையும் அழிக்கக்கூடியது என்பதால் உடனே வேளாண் அலுவலரைத் தொடர்பு கொள்ளவும்."
+      ]
+    },
+    "references": [
+      "ICAR - IIHR Advisory on Late Blight Management",
+      "TNAU Agritech Portal: Plant Pathology"
+    ],
+    "review_status": "Compiled from ICAR / TNAU documentation. Exact chemical timing requires district agro-meteorological advisory."
+  },
+  "tomato_healthy": {
+    "disease_id": "tomato_healthy",
+    "crop": "Tomato",
+    "name": {
+      "en": "Healthy Tomato Plant",
+      "ta": "ஆரோக்கியமான தக்காளி பயிர்"
+    },
+    "pathogen": "None (Healthy)",
+    "short_description": {
+      "en": "Vigorous green foliage with no detectable fungal, bacterial, or viral symptoms.",
+      "ta": "எந்தவித நோய் அறிகுறிகளும் இல்லாத பசுமையான ஆரோக்கியமான பயிர்."
+    },
+    "symptoms": {
+      "en": [
+        "Uniform green leaves without spots, mosaic discoloration, or wilting.",
+        "Sturdy upright stems and healthy floral trusses."
+      ],
+      "ta": [
+        "புள்ளிகள் மற்றும் வாடல் இல்லாத ஒரே சீரான பசுமையான இலைகள்.",
+        "வலுவான தண்டுகள் மற்றும் ஆரோக்கியமான பூங்கொத்துகள்."
+      ]
+    },
+    "prevention": {
+      "en": [
+        "Continue balanced integrated nutrient and water management based on Soil Health Card.",
+        "Maintain periodic scouting for early pest infestation (whitefly, leaf miner, thrips)."
+      ],
+      "ta": [
+        "மண் வள அட்டை பரிந்துரைப்படி சீரான உரம் மற்றும் நீர்ப்பாசனம் தொடரவும்.",
+        "பூச்சிகள் (வெள்ளை ஈ, இலைப்பேன்) வருகையைக் கண்காணிக்கவும்."
+      ]
+    },
+    "cultural_management": {
+      "en": [
+        "Keep the field free of solanaceous weeds.",
+        "Stake plants and maintain clean drainage channels."
+      ],
+      "ta": [
+        "வயலில் களைகள் இல்லாமல் தூய்மையாக வைத்திருக்கவும்.",
+        "வடிகால் வசதியைச் சீராகப் பராமரிக்கவும்."
+      ]
+    },
+    "monitoring_advice": {
+      "en": [
+        "Scout the field at least once every 4 to 5 days, checking leaf undersides and new flush."
+      ],
+      "ta": [
+        "4 முதல் 5 நாட்களுக்கு ஒரு முறை பயிரை உன்னிப்பாகக் கண்காணிக்கவும்."
+      ]
+    },
+    "safe_treatment_guidance": {
+      "en": [
+        "No chemical pesticide application is warranted on healthy crops.",
+        "Maintain preventive biological balance using beneficial biofertilizers (Azospirillum, Phosphobacteria) and neem oil spray for repellent action if sucking pests appear."
+      ],
+      "ta": [
+        "ஆரோக்கியமான பயிருக்கு ரசாயன மருந்துகள் தேவை இல்லை.",
+        "தேவைப்பட்டால் வேப்பெண்ணெய் கரைசல் போன்ற இயற்கை முறைகளைப் பயன்படுத்தலாம்."
+      ]
+    },
+    "consultation_criteria": {
+      "en": [
+        "Consult your local agricultural extension service for guidance on flowering stimulators and micronutrient boosters suited to your soil type."
+      ],
+      "ta": [
+        "மண் வகைக்கு ஏற்ற நுண்ணூட்டச்சத்துக்கள் குறித்து உள்ளூர் வேளாண் அதிகாரியிடம் ஆலோசனை பெறலாம்."
+      ]
+    },
+    "references": [
+      "TNAU Good Agricultural Practices (GAP) for Tomato"
+    ],
+    "review_status": "Standard Good Agricultural Practices guideline."
+  },
+  "paddy_blast": {
+    "disease_id": "paddy_blast",
+    "crop": "Paddy (rice)",
+    "name": {
+      "en": "Paddy Blast Disease",
+      "ta": "நெல் குலை நோய்"
+    },
+    "pathogen": "Magnaporthe oryzae (Pyricularia oryzae)",
+    "short_description": {
+      "en": "Major fungal disease causing spindle-shaped lesions with grey centres on leaves, nodes, and neck.",
+      "ta": "இலைகளில் மையத்தில் சாம்பல் நிறம் கொண்ட கதிர் வடிவப் புள்ளிகளை உண்டாக்கும் நெல் பயிரின் தீவிர பூஞ்சை நோய்."
+    },
+    "symptoms": {
+      "en": [
+        "Spindle-shaped or eye-shaped spots with grey or whitish centres and brown margins on leaves.",
+        "Blackened rotting nodes causing stem breakage (node blast).",
+        "Neck blast turning the panicle neck brown and preventing grain filling (chaffy grains)."
+      ],
+      "ta": [
+        "இலைகளில் சாம்பல் நிற மையமும் பழுப்பு நிற ஓரமும் கொண்ட கதிர் வடிவப் புள்ளிகள்.",
+        "கணுக்கள் கறுத்து அழுகி ஒடிந்து போதல் (கணு குலை நோய்).",
+        "கதிர் கழுத்துப்பகுதி கறுத்து மணிகள் பிடிக்காமல் பதராவது (கழுத்து குலை நோய்)."
+      ]
+    },
+    "prevention": {
+      "en": [
+        "Treat seed with Carbendazim 50% WP @ 2 g/kg or Trichoderma viride @ 4 g/kg seed before sowing.",
+        "Avoid excessive or split-heavy nitrogenous fertilizers; apply nitrogen strictly in recommended split doses.",
+        "Use certified blast-resistant paddy varieties suited to your agro-climatic zone."
+      ],
+      "ta": [
+        "விதைப்பதற்கு முன் டிரைக்கோடெர்மா விரிடி (4 கிராம்/கிலோ) கொண்டு விதை நேர்த்தி செய்யவும்.",
+        "அதிகப்படியான தழைச்சத்தை (யூரியா) ஒரே நேரத்தில் இடுவதைத் தவிர்க்கவும்.",
+        "உங்கள் பகுதிக்கு ஏற்ற குலை நோய் எதிர்ப்பு ரகங்களைத் தேர்ந்தெடுக்கவும்."
+      ]
+    },
+    "cultural_management": {
+      "en": [
+        "Remove and burn weed hosts and grassy weeds from bunds.",
+        "Maintain thin water film in the field; do not let the field dry out completely during tillering."
+      ],
+      "ta": [
+        "வரப்புகளில் உள்ள களைகளை அகற்றி சுத்தமாக வைக்கவும்.",
+        "தூர்கட்டும் பருவத்தில் வயல் முற்றிலும் காய்ந்துவிடாமல் மெல்லிய நீர் மட்டம் பராமரிக்கவும்."
+      ]
+    },
+    "monitoring_advice": {
+      "en": [
+        "Monitor fields closely when relative humidity exceeds 90% and night temperatures drop below 20°C with morning fog."
+      ],
+      "ta": [
+        "காற்றில் அதிக ஈரப்பதமும் இரவில் கடும் குளிரும் பனியும் நிலவும் போது தினமும் பயிரை ஆய்வு செய்யவும்."
+      ]
+    },
+    "safe_treatment_guidance": {
+      "en": [
+        "Apply recommended university fungicides (e.g., Tricyclazole 75% WP @ 0.6 g/L or Isoprothiolane 40% EC @ 1.5 mL/L) at economic threshold level upon agricultural officer confirmation.",
+        "Spray during early morning or late evening with a knapsack sprayer fitted with a hollow cone nozzle.",
+        "Strictly observe Pre-Harvest Intervals (PHI) and wear protective mask and gloves."
+      ],
+      "ta": [
+        "அறிகுறிகள் தென்பட்டால் ட்ரைசைக்ளசோல் (0.6 கிராம்/லிட்டர்) வேளாண் அலுவலர் பரிந்துரைப்படி தெளிக்கவும்.",
+        "காலை அல்லது மாலை வேளையில் சரியான முறையில் மருந்து தெளிக்கவும்.",
+        "அறுவடைக்கு முந்தைய நாட்களைக் கடைப்பிடிக்கவும், முகக்கவசம் அணியவும்."
+      ]
+    },
+    "consultation_criteria": {
+      "en": [
+        "Contact the Block Assistant Director of Agriculture immediately if neck blast symptoms appear during panicle emergence."
+      ],
+      "ta": [
+        "கதிர் வெளிவரும் தருணத்தில் கழுத்து குலை நோய் அறிகுறிகள் தென்பட்டால் உடனடியாக வட்டார வேளாண்மை உதவி இயக்குநரை அணுகவும்."
+      ]
+    },
+    "references": [
+      "TNAU Paddy Crop Protection Guide",
+      "ICAR - National Rice Research Institute (NRRI) Advisory Bulletins"
+    ],
+    "review_status": "Compiled from TNAU / ICAR-NRRI protocols. Chemical intervention requires local KVK/AAO approval."
+  },
+  "groundnut_tikka": {
+    "disease_id": "groundnut_tikka",
+    "crop": "Groundnut",
+    "name": {
+      "en": "Groundnut Tikka Leaf Spot",
+      "ta": "நிலக்கடலை டிக்கா இலைப்புள்ளி நோய்"
+    },
+    "pathogen": "Cercospora arachidicola (Early) / Cercosporidium personatum (Late)",
+    "short_description": {
+      "en": "Causes widespread brown to dark black spots on leaves, leading to severe defoliation and reduced pod yield.",
+      "ta": "இலைகளில் பழுப்பு மற்றும் கருப்பு நிற புள்ளிகளை ஏற்படுத்தி இலைகளை உதிரச் செய்து விளைச்சலைக் குறைக்கும் நோய்."
+    },
+    "symptoms": {
+      "en": [
+        "Early leaf spot: reddish-brown circular spots surrounded by a prominent yellow halo.",
+        "Late leaf spot: smaller, darker brown-to-black spots without a distinct yellow halo on both leaf surfaces.",
+        "Extensive leaf shedding leading to bare stems."
+      ],
+      "ta": [
+        "ஆரம்ப இலைப்புள்ளி: தெளிவான மஞ்சள் வளையத்துடன் கூடிய வட்ட வடிவ கரும்பழுப்பு புள்ளிகள்.",
+        "பிற்பட்ட இலைப்புள்ளி: மஞ்சள் வளையம் இல்லாத அடர் கருப்பு நிற புள்ளிகள்.",
+        "தீவிரமான இலை உதிர்தல் மற்றும் செடி வெற்று குச்சியாக மாறுதல்."
+      ]
+    },
+    "prevention": {
+      "en": [
+        "Treat kernels with Trichoderma viride @ 4 g/kg or Mancozeb @ 2 g/kg seed.",
+        "Practice crop rotation with non-host crops like cereals or pulses.",
+        "Maintain optimum plant population and clean cultivation."
+      ],
+      "ta": [
+        "டிரைக்கோடெர்மா விரிடி (4 கிராம்/கிலோ) அல்லது மாங்கோசெப் கொண்டு விதை நேர்த்தி செய்யவும்.",
+        "தானியங்கள் அல்லது பயறு வகைகளுடன் பயிர் சுழற்சி செய்யவும்.",
+        "பரிந்துரைக்கப்பட்ட இடைவெளியில் பயிரிடவும்."
+      ]
+    },
+    "cultural_management": {
+      "en": [
+        "Remove and destroy infected stubbles and volunteer groundnut plants after harvest.",
+        "Intercrop with pearl millet (bajra) or pigeon pea to reduce disease spread."
+      ],
+      "ta": [
+        "அறுவடைக்குப் பின் பயிர்க் கழிவுகளை அகற்றவும்.",
+        "கம்பு அல்லது துவரை போன்ற பயிர்களுடன் ஊடுபயிர் செய்யவும்."
+      ]
+    },
+    "monitoring_advice": {
+      "en": [
+        "Start monitoring lower leaves around 30 to 40 days after sowing, especially after monsoon showers with warm temperatures."
+      ],
+      "ta": [
+        "விதைத்த 30-40 நாட்களுக்குப் பின், குறிப்பாக மழைக்குப் பிறகு கீழ் இலைகளைக் கண்காணிக்கவும்."
+      ]
+    },
+    "safe_treatment_guidance": {
+      "en": [
+        "Spray Mancozeb 75% WP @ 2 g/L or Carbendazim 50% WP @ 1 g/L at the first appearance of leaf spots as guided by the Agricultural Extension Officer.",
+        "Follow up with a second spray 15 days later if humid, cloudy conditions persist.",
+        "Always wear face masks and chemical-resistant gloves. Keep animals away from sprayed fields."
+      ],
+      "ta": [
+        "அறிகுறிகள் தென்பட்டவுடன் மாங்கோசெப் (2 கிராம்/லிட்டர்) வேளாண் அலுவலர் வழிகாட்டுதலுடன் தெளிக்கலாம்.",
+        "ஈரப்பதம் நீடித்தால் 15 நாட்கள் கழித்து மீண்டும் தெளிக்கவும்.",
+        "பாதுகாப்பு உடைகள் அணியவும், கால்நடைகளைத் தெளிக்கப்பட்ட வயலுக்குள் விட வேண்டாம்."
+      ]
+    },
+    "consultation_criteria": {
+      "en": [
+        "Seek immediate guidance from local KVK if more than 20% of foliage is defoliated before pod filling."
+      ],
+      "ta": [
+        "காய் பிடிக்கும் முன் 20% க்கும் மேல் இலைகள் உதிர்ந்தால் உடனடியாக KVK மையத்தை அணுகவும்."
+      ]
+    },
+    "references": [
+      "TNAU Agritech Portal: Oilseeds (Groundnut Protection)",
+      "ICAR - Directorate of Groundnut Research (DGR)"
+    ],
+    "review_status": "Compiled from TNAU / ICAR-DGR recommendations. Consult local agricultural officer for specific formulations."
+  }
+}

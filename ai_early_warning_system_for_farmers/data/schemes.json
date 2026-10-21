@@ -1,0 +1,189 @@
+[
+  {
+    "scheme_id": "pm_kisan",
+    "name": {
+      "en": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "ta": "பிரதமர் கிசான் சம்மான் நிதி (PM-KISAN)"
+    },
+    "summary": {
+      "en": "Central sector scheme providing income support of Rs. 6,000 per year in three equal installments to all landholding farmer families across India.",
+      "ta": "நாடு முழுவதும் உள்ள அனைத்து நில உரிமையுள்ள விவசாயக் குடும்பங்களுக்கும் ஆண்டுக்கு ரூ. 6,000 வருமான ஆதரவு வழங்கும் மத்திய அரசின் திட்டம்."
+    },
+    "benefits": {
+      "en": [
+        "Financial benefit of Rs. 6,000 per annum paid directly to bank accounts (DBT).",
+        "Disbursed in three 4-monthly installments of Rs. 2,000 each.",
+        "Aadhaar-seeded direct payment ensuring full transparency without intermediaries."
+      ],
+      "ta": [
+        "ஆண்டுக்கு ரூ. 6,000 நேரடி வங்கிப் பரிமாற்றம் (DBT) மூலம் வழங்கப்படுகிறது.",
+        "நான்கு மாதங்களுக்கு ஒரு முறை ரூ. 2,000 வீதம் 3 தவணைகளில் செலுத்தப்படுகிறது.",
+        "ஆதார் இணைக்கப்பட்ட வங்கிக் கணக்கு மூலம் வெளிப்படையான உதவி."
+      ]
+    },
+    "eligibility": {
+      "en": [
+        "All landholder farmer families with cultivable landholding in their names.",
+        "Subject to statutory exclusions: Institutional landholders, constitutional post holders, serving/retired government officers, doctors/engineers/CA professionals, income tax payers in the last assessment year are NOT eligible."
+      ],
+      "ta": [
+        "தங்கள் பெயரில் சாகுபடி செய்யக்கூடிய நிலம் வைத்துள்ள அனைத்து விவசாய குடும்பங்கள்.",
+        "விலக்குகள்: அரசு ஊழியர்கள், ஓய்வூதியதாரர்கள், மருத்துவர்கள், பொறியாளர்கள், வருமான வரி செலுத்துவோர் போன்றோர் தகுதியற்றவர்கள்."
+      ]
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Land ownership record / Chitta / Patta document",
+      "Aadhaar-linked active bank account with IFSC code",
+      "Valid mobile number linked to Aadhaar (for OTP eKYC verification)"
+    ],
+    "application_procedure": {
+      "en": "Farmers can self-register on the official PM-KISAN portal under 'Farmer Corner' -> 'New Farmer Registration', through Common Service Centres (CSCs), or via local village revenue/agriculture officers. Mandatory eKYC must be completed via OTP or facial recognition.",
+      "ta": "விவசாயிகள் PM-KISAN இணையதளத்தில் உள்ள 'Farmer Corner' பகுதி மூலமாகவோ, பொது சேவை மையங்கள் (CSC) மூலமாகவோ அல்லது கிராம வேளாண் அலுவலர் மூலமாகவோ பதிவு செய்யலாம். OTP அல்லது முக அங்கீகாரம் மூலம் eKYC செய்வது கட்டாயம்."
+    },
+    "official_url": "https://pmkisan.gov.in/",
+    "last_verified_date": "2026-10-21",
+    "verification_status": "Verified against official central portal guidelines. Verify current registration and eKYC requirements on the official site."
+  },
+  {
+    "scheme_id": "pmfby",
+    "name": {
+      "en": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "ta": "பிரதம மந்திரி பயிர் காப்பீட்டுத் திட்டம் (PMFBY)"
+    },
+    "summary": {
+      "en": "Comprehensive agricultural crop insurance against non-preventable natural risks from pre-sowing to post-harvest stages.",
+      "ta": "விதைப்பு முதல் அறுவடை வரை இயற்கை இடர்பாடுகளால் ஏற்படும் பயிர் இழப்பிற்கு விரிவான பயிர்க் காப்பீடு வழங்கும் திட்டம்."
+    },
+    "benefits": {
+      "en": [
+        "Very low premium rates for farmers: maximum 2% for Kharif crops, 1.5% for Rabi food/oilseed crops, and 5% for annual commercial/horticultural crops.",
+        "Government pays the balance actuarial premium subsidy.",
+        "Covers localized risks (hailstorm, landslide, inundation) and post-harvest losses caused by unseasonal rains."
+      ],
+      "ta": [
+        "விவசாயிகளுக்கு மிகக் குறைந்த பிரீமியம்: காரிஃப் பயிர்களுக்கு 2%, ரபி உணவு தானியங்களுக்கு 1.5%, தோட்டக்கலை பயிர்களுக்கு 5% மட்டுமே.",
+        "மீதமுள்ள பிரீமியம் தொகையை அரசே மானியமாக ஏற்கிறது.",
+        "ஆலங்கட்டி மழை, நிலச்சரிவு, வெள்ளம் மற்றும் அறுவடைக்குப் பிந்தைய சேதங்களுக்கு இழப்பீடு."
+      ]
+    },
+    "eligibility": {
+      "en": [
+        "All farmers growing notified crops in notified insurance units/villages during the season.",
+        "Both loanee farmers (via banks/PACS) and non-loanee farmers (via CSC/portal/agents) are eligible.",
+        "Tenant farmers and sharecroppers cultivating notified crops with valid land tenancy proof are also eligible."
+      ],
+      "ta": [
+        "அறிவிக்கப்பட்ட கிராமங்களில் அறிவிக்கப்பட்ட பயிர்களை சாகுபடி செய்யும் அனைத்து விவசாயிகள்.",
+        "கடன் பெற்ற மற்றும் கடன் பெறாத விவசாயிகள் அனைவரும் தகுதியுடையவர்கள்.",
+        "முறையான ஆவணம் கொண்ட குத்தகை விவசாயிகளும் பயன் பெறலாம்."
+      ]
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Land possession certificate / Patta / Land tenancy agreement",
+      "Sowing certificate / Adangal issued by Village Administrative Officer (VAO)",
+      "Cancelled bank cheque or updated bank passbook copy"
+    ],
+    "application_procedure": {
+      "en": "Apply through the National Crop Insurance Portal (NCIP), nearest Commercial Bank/PACS, or authorized Common Service Centre (CSC) before the notified seasonal cut-off deadline.",
+      "ta": "அறிவிக்கப்பட்ட காலக்கெடுவுக்குள் தேசிய பயிர்க் காப்பீட்டு இணையதளம் (NCIP), வங்கிகள் அல்லது பொது சேவை மையங்கள் (CSC) மூலம் விண்ணப்பிக்கலாம்."
+    },
+    "official_url": "https://pmfby.gov.in/",
+    "last_verified_date": "2026-10-21",
+    "verification_status": "Verified against national portal norms. Season deadlines and notified crops must be checked with local district agricultural office."
+  },
+  {
+    "scheme_id": "soil_health_card",
+    "name": {
+      "en": "Soil Health Card Scheme",
+      "ta": "மண் வள அட்டை திட்டம்"
+    },
+    "summary": {
+      "en": "Periodic soil testing scheme providing farmers with customized nutrient status reports and tailored fertilizer recommendations for optimal soil fertility.",
+      "ta": "மண் பரிசோதனை செய்து நிலத்தின் ஊட்டச்சத்து நிலை மற்றும் பரிந்துரைக்கப்பட்ட உர அளவுகளைத் தெரிவிக்கும் திட்டம்."
+    },
+    "benefits": {
+      "en": [
+        "Detailed report on 12 key soil parameters (Macro: N, P, K; Secondary: S; Micro: Zn, Fe, Cu, Mn, Bo; Physical: pH, EC, OC).",
+        "Targeted fertilizer dosage recommendations reducing excessive chemical input costs.",
+        "Improves crop yield stability and safeguards soil health from degradation."
+      ],
+      "ta": [
+        "12 முக்கிய மண் சத்துக்கள் குறித்த முழுமையான அறிக்கை (தழை, மணி, சாம்பல், ஜிங்க், பி.எச் முதலியன).",
+        "தேவையான அளவுக்கு மட்டும் உரமிட வழிகாட்டுதல், தேவையற்ற உரச் செலவைக் குறைக்கிறது.",
+        "மண்ணின் வளத்தைப் பாதுகாத்து விளைச்சலை அதிகரிக்கிறது."
+      ]
+    },
+    "eligibility": {
+      "en": [
+        "All agricultural landholders in participating states and Union Territories across India.",
+        "Soil samples are systematically collected by state agriculture department personnel or village-level soil sample coordinators."
+      ],
+      "ta": [
+        "விவசாய நிலம் வைத்துள்ள அனைத்து விவசாயிகளும் இத்திட்டத்தில் பயன்பெறலாம்.",
+        "வேளாண்துறை அலுவலர்கள் மூலம் மண் மாதிரிகள் சேகரிக்கப்பட்டு பரிசோதிக்கப்படுகிறது."
+      ]
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Survey Number / Patta details",
+      "Active Mobile Number"
+    ],
+    "application_procedure": {
+      "en": "Farmers can request soil sampling at their nearest Block Agricultural Extension Center, Krishi Vigyan Kendra (KVK), or register samples through the Soil Health Portal.",
+      "ta": "அருகிலுள்ள வட்டார வேளாண் விரிவாக்க மையம் அல்லது KVK மையத்தை அணுகி மண் மாதிரி பரிசோதனைக்கு விண்ணப்பிக்கலாம்."
+    },
+    "official_url": "https://soilhealth.dac.gov.in/",
+    "last_verified_date": "2026-10-21",
+    "verification_status": "Verified against DAC&FW guidelines. Soil collection schedules are managed at the block level."
+  },
+  {
+    "scheme_id": "tn_kalaignar_scheme",
+    "name": {
+      "en": "Kalaignarin All Village Integrated Agriculture Development Programme (Tamil Nadu)",
+      "ta": "கலைஞரின் அனைத்து கிராம ஒருங்கிணைந்த வேளாண் வளர்ச்சி திட்டம் (தமிழ்நாடு)"
+    },
+    "summary": {
+      "en": "Flagship Tamil Nadu state initiative bringing fallow lands into cultivation, creating micro-irrigation facilities, distributing farm equipment, and augmenting village-level water resources.",
+      "ta": "தரிசு நிலங்களை விளைநிலங்களாக மாற்றுதல், நுண்ணீர்ப்பாசன வசதிகள் உருவாக்குதல் மற்றும் விவசாயிகளுக்கு வேளாண் கருவிகள் வழங்கும் தமிழ்நாடு அரசின் முதன்மைத் திட்டம்."
+    },
+    "benefits": {
+      "en": [
+        "Subsidized power sprayers, battery sprayers, and tarpaulins for small and marginal farmers.",
+        "Free saplings of fruit and timber trees to enhance diversified farm income.",
+        "Assistance for sinking farm ponds, borewells, and installing micro-irrigation systems with up to 100% subsidy for eligible small/marginal farmers.",
+        "Distribution of vegetable seed kits and organic inputs."
+      ],
+      "ta": [
+        "சிறு, குறு விவசாயிகளுக்கு மானிய விலையில் விசைத்தெளிப்பான்கள், பேட்டரி தெளிப்பான்கள் மற்றும் தார்பாலின்கள்.",
+        "வருமானத்தை பெருக்க இலவச மரக்கன்றுகள் மற்றும் பழச்செடிகள்.",
+        "பண்ணைக்குட்டைகள் அமைக்க உதவி மற்றும் சிறு/குறு விவசாயிகளுக்கு 100% வரை நுண்ணீர்ப்பாசன மானியம்.",
+        "காய்கறி விதைத் தொகுப்புகள் மற்றும் இயற்கை இடுபொருட்கள் விநியோகம்."
+      ]
+    },
+    "eligibility": {
+      "en": [
+        "Farmers holding agricultural land in selected village panchayats notified under the scheme phase.",
+        "Priority given to Small and Marginal Farmers (holding less than 2.5 acres of wet land or 5 acres of dry land), Women Farmers, and SC/ST farmers."
+      ],
+      "ta": [
+        "இத்திட்டத்தின் கீழ் தேர்வு செய்யப்பட்ட கிராம பஞ்சாயத்துகளில் நிலம் வைத்துள்ள விவசாயிகள்.",
+        "சிறு, குறு விவசாயிகள், பெண் விவசாயிகள் மற்றும் ஆதிதிராவிட/பழங்குடியின விவசாயிகளுக்கு முன்னுரிமை."
+      ]
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Patta / Chitta and FMB sketch",
+      "Small / Marginal Farmer Certificate issued by Revenue Department",
+      "Bank Passbook copy with IFSC"
+    ],
+    "application_procedure": {
+      "en": "Apply through the Tamil Nadu Uzhavan App or contact the local Block Assistant Agricultural Officer (AAO) / Agricultural Extension Centre (AEC).",
+      "ta": "தமிழ்நாடு உழவன் செயலி (Uzhavan App) மூலமாகவோ அல்லது வட்டார வேளாண் விரிவாக்க மையத்தை அணுகியோ விண்ணப்பிக்கலாம்."
+    },
+    "official_url": "https://www.tnagriculture.in/",
+    "last_verified_date": "2026-10-21",
+    "verification_status": "Verified with Tamil Nadu Agriculture Department announcements. Exact subsidy quotas depend on village panchayat priority selection."
+  }
+]
